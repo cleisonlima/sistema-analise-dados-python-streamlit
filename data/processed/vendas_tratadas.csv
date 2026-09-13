@@ -1,0 +1,721 @@
+order_id,order_date,customer_id,customer_age,gender,state,city,category,product,quantity,unit_price,discount,payment_method,status,satisfaction_score,gross_revenue,discount_value,net_revenue,month,is_completed
+PED-100588,2024-01-01,CLI-1202,18,Outro,Sp,Sao Paulo,Eletronicos,Smartwatch,2,399.9,0.0,Cartao,Concluido,1,799.8,0.0,799.8,2024-01-01,True
+PED-100410,2024-01-02,CLI-1013,19,F,Sp,Sao Paulo,Moda,Tenis Casual,4,279.9,0.05,Pix,Concluido,5,1119.6,55.98,1063.62,2024-01-01,True
+PED-100142,2024-01-02,CLI-1203,27,F,Go,Goiania,Esportes,Colchonete,1,99.9,0.05,Cartao,Cancelado,5,99.9,4.995000000000001,94.905,2024-01-01,False
+PED-100685,2024-01-04,CLI-1046,70,F,Sp,Sao Paulo,Casa,Cafeteira,1,229.9,0.1,Carteira Digital,Concluido,5,229.9,22.990000000000002,206.91,2024-01-01,True
+PED-100175,2024-01-05,CLI-1229,32,F,Ba,Salvador,Eletronicos,Fone Bluetooth,1,149.9,0.05,Carteira Digital,Concluido,3,149.9,7.495000000000001,142.405,2024-01-01,True
+PED-100293,2024-01-05,CLI-1061,55,M,Ba,Salvador,Eletronicos,Teclado Mecanico,1,289.9,0.2,Cartao,Em Processamento,5,289.9,57.98,231.92,2024-01-01,False
+PED-100313,2024-01-06,CLI-1063,49,M,Sp,Sao Paulo,Casa,Aspirador Vertical,2,599.9,0.1,Pix,Concluido,5,1199.8,119.98,1079.82,2024-01-01,True
+PED-100429,2024-01-07,CLI-1104,59,F,Sc,Florianopolis,Beleza,Secador,2,199.9,0.0,Pix,Concluido,5,399.8,0.0,399.8,2024-01-01,True
+PED-100503,2024-01-10,CLI-1067,36,F,Rj,Rio De Janeiro,Casa,Cafeteira,1,229.9,0.05,Cartao,Cancelado,5,229.9,11.495000000000001,218.405,2024-01-01,False
+PED-100140,2024-01-11,CLI-1212,38,F,Sp,Sao Paulo,Casa,Cafeteira,1,229.9,0.05,Cartao,Em Processamento,4,229.9,11.495000000000001,218.405,2024-01-01,False
+PED-100295,2024-01-12,CLI-1211,56,F,Sp,Sao Paulo,Esportes,Garrafa Termica,1,129.9,0.0,Boleto,Concluido,5,129.9,0.0,129.9,2024-01-01,True
+PED-100589,2024-01-12,CLI-1222,62,F,Ba,Salvador,Eletronicos,Smartwatch,1,399.9,0.2,Boleto,Concluido,4,399.9,79.98,319.91999999999996,2024-01-01,True
+PED-100306,2024-01-14,CLI-1038,50,F,Rs,Porto Alegre,Casa,Jogo De Panelas,2,349.9,0.1,Cartao,Concluido,4,699.8,69.98,629.8199999999999,2024-01-01,True
+PED-100204,2024-01-15,CLI-1102,57,F,Pe,Recife,Eletronicos,Fone Bluetooth,1,149.9,0.1,Cartao,Concluido,5,149.9,14.990000000000002,134.91,2024-01-01,True
+PED-100110,2024-01-15,CLI-1210,31,M,Mg,Belo Horizonte,Casa,Cafeteira,1,229.9,0.1,Cartao,Concluido,4,229.9,22.990000000000002,206.91,2024-01-01,True
+PED-100377,2024-01-15,CLI-1084,41,F,Mg,Belo Horizonte,Casa,Cafeteira,2,229.9,0.0,Pix,Concluido,5,459.8,0.0,459.8,2024-01-01,True
+PED-100249,2024-01-15,CLI-1197,46,F,Sp,Sao Paulo,Casa,Cafeteira,1,229.9,0.15,Pix,Concluido,3,229.9,34.485,195.41500000000002,2024-01-01,True
+PED-100422,2024-01-18,CLI-1202,28,F,Rj,Rio De Janeiro,Eletronicos,Teclado Mecanico,1,289.9,0.0,Carteira Digital,Cancelado,4,289.9,0.0,289.9,2024-01-01,False
+PED-100677,2024-01-18,CLI-1120,46,M,Ce,Fortaleza,Casa,Aspirador Vertical,1,599.9,0.15,Carteira Digital,Cancelado,4,599.9,89.985,509.91499999999996,2024-01-01,False
+PED-100299,2024-01-18,CLI-1049,45,M,Mg,Belo Horizonte,Moda,Tenis Casual,1,279.9,0.05,Cartao,Concluido,4,279.9,13.995,265.905,2024-01-01,True
+PED-100064,2024-01-20,CLI-1125,56,F,Mg,Belo Horizonte,Moda,Mochila Urbana,2,189.9,0.0,Cartao,Concluido,4,379.8,0.0,379.8,2024-01-01,True
+PED-100388,2024-01-22,CLI-1025,56,M,Sc,Florianopolis,Eletronicos,Smartwatch,1,399.9,0.2,Cartao,Concluido,3,399.9,79.98,319.91999999999996,2024-01-01,True
+PED-100164,2024-01-22,CLI-1238,54,M,Rj,Rio De Janeiro,Moda,Tenis Casual,2,279.9,0.1,Pix,Concluido,5,559.8,55.98,503.81999999999994,2024-01-01,True
+PED-100355,2024-01-23,CLI-1019,63,F,Ce,Fortaleza,Moda,Tenis Casual,3,279.9,0.0,Boleto,Concluido,5,839.6999999999999,0.0,839.6999999999999,2024-01-01,True
+PED-100491,2024-01-26,CLI-1123,57,M,Pr,Curitiba,Moda,Mochila Urbana,2,189.9,0.0,Cartao,Em Processamento,4,379.8,0.0,379.8,2024-01-01,False
+PED-100650,2024-01-26,CLI-1076,67,F,Pe,Recife,Casa,Jogo De Panelas,2,349.9,0.0,Cartao,Concluido,4,699.8,0.0,699.8,2024-01-01,True
+PED-100653,2024-01-27,CLI-1129,66,F,Rj,Rio De Janeiro,Eletronicos,Fone Bluetooth,2,149.9,0.0,Cartao,Concluido,4,299.8,0.0,299.8,2024-01-01,True
+PED-100045,2024-01-27,CLI-1109,48,M,Pr,Curitiba,Beleza,Secador,2,199.9,0.1,Cartao,Concluido,4,399.8,39.980000000000004,359.82,2024-01-01,True
+PED-100440,2024-01-28,CLI-1152,27,M,Rj,Rio De Janeiro,Beleza,Perfume,1,249.9,0.0,Cartao,Em Processamento,5,249.9,0.0,249.9,2024-01-01,False
+PED-100592,2024-01-29,CLI-1179,62,M,Sc,Florianopolis,Casa,Cafeteira,1,229.9,0.05,Carteira Digital,Concluido,4,229.9,11.495000000000001,218.405,2024-01-01,True
+PED-100657,2024-01-29,CLI-1034,70,Outro,Sp,Sao Paulo,Casa,Jogo De Panelas,1,349.9,0.1,Boleto,Cancelado,5,349.9,34.99,314.90999999999997,2024-01-01,False
+PED-100186,2024-01-30,CLI-1190,44,M,Sp,Sao Paulo,Casa,Aspirador Vertical,1,599.9,0.05,Pix,Concluido,5,599.9,29.995,569.905,2024-01-01,True
+PED-100252,2024-01-30,CLI-1206,33,F,Pr,Curitiba,Casa,Aspirador Vertical,1,599.9,0.0,Boleto,Concluido,3,599.9,0.0,599.9,2024-01-01,True
+PED-100222,2024-02-02,CLI-1045,39,M,Sc,Florianopolis,Moda,Tenis Casual,1,279.9,0.2,Boleto,Concluido,5,279.9,55.98,223.92,2024-02-01,True
+PED-100357,2024-02-04,CLI-1182,55,M,Mg,Belo Horizonte,Beleza,Kit Skincare,1,159.9,0.0,Pix,Concluido,2,159.9,0.0,159.9,2024-02-01,True
+PED-100668,2024-02-04,CLI-1146,45,F,Mg,Belo Horizonte,Casa,Cafeteira,2,229.9,0.0,Cartao,Concluido,4,459.8,0.0,459.8,2024-02-01,True
+PED-100386,2024-02-05,CLI-1199,43,Outro,Mg,Belo Horizonte,Beleza,Kit Skincare,2,159.9,0.0,Pix,Em Processamento,4,319.8,0.0,319.8,2024-02-01,False
+PED-100093,2024-02-05,CLI-1085,44,F,Sc,Florianopolis,Casa,Cafeteira,1,229.9,0.15,Cartao,Concluido,3,229.9,34.485,195.41500000000002,2024-02-01,True
+PED-100012,2024-02-07,CLI-1121,44,F,Rj,Rio De Janeiro,Moda,Tenis Casual,2,279.9,0.1,Cartao,Em Processamento,4,559.8,55.98,503.81999999999994,2024-02-01,False
+PED-100576,2024-02-08,CLI-1200,69,F,Sp,Sao Paulo,Esportes,Colchonete,3,99.9,0.15,Cartao,Cancelado,4,299.70000000000005,44.955000000000005,254.74500000000003,2024-02-01,False
+PED-100128,2024-02-08,CLI-1095,56,F,Rj,Rio De Janeiro,Eletronicos,Teclado Mecanico,1,289.9,0.0,Cartao,Concluido,3,289.9,0.0,289.9,2024-02-01,True
+PED-100579,2024-02-18,CLI-1062,60,M,Sp,Sao Paulo,Casa,Aspirador Vertical,2,599.9,0.1,Boleto,Concluido,3,1199.8,119.98,1079.82,2024-02-01,True
+PED-100008,2024-02-19,CLI-1106,67,F,Mg,Belo Horizonte,Eletronicos,Teclado Mecanico,1,289.9,0.0,Boleto,Concluido,4,289.9,0.0,289.9,2024-02-01,True
+PED-100406,2024-02-21,CLI-1122,34,F,Ce,Fortaleza,Eletronicos,Smartwatch,2,399.9,0.1,Pix,Cancelado,3,799.8,79.98,719.8199999999999,2024-02-01,False
+PED-100477,2024-02-22,CLI-1191,27,M,Mg,Belo Horizonte,Moda,Mochila Urbana,1,189.9,0.05,Boleto,Cancelado,5,189.9,9.495000000000001,180.405,2024-02-01,False
+PED-100481,2024-02-23,CLI-1164,28,M,Pr,Curitiba,Eletronicos,Smartwatch,1,399.9,0.05,Cartao,Cancelado,4,399.9,19.995,379.905,2024-02-01,False
+PED-100529,2024-02-23,CLI-1228,29,F,Mg,Belo Horizonte,Casa,Cafeteira,1,229.9,0.0,Cartao,Concluido,5,229.9,0.0,229.9,2024-02-01,True
+PED-100251,2024-02-25,CLI-1192,66,M,Mg,Belo Horizonte,Esportes,Garrafa Termica,1,129.9,0.15,Cartao,Em Processamento,5,129.9,19.485,110.415,2024-02-01,False
+PED-100464,2024-02-25,CLI-1189,70,M,Mg,Belo Horizonte,Moda,Tenis Casual,1,279.9,0.05,Pix,Concluido,4,279.9,13.995,265.905,2024-02-01,True
+PED-100662,2024-02-26,CLI-1190,31,F,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,1,149.9,0.15,Cartao,Concluido,3,149.9,22.485,127.415,2024-02-01,True
+PED-100460,2024-02-27,CLI-1148,30,F,Ba,Salvador,Moda,Mochila Urbana,2,189.9,0.05,Boleto,Em Processamento,3,379.8,18.990000000000002,360.81,2024-02-01,False
+PED-100632,2024-03-01,CLI-1097,44,F,Ce,Fortaleza,Eletronicos,Smartwatch,2,399.9,0.2,Pix,Em Processamento,4,799.8,159.96,639.8399999999999,2024-03-01,False
+PED-100051,2024-03-02,CLI-1135,21,Outro,Mg,Belo Horizonte,Eletronicos,Smartwatch,3,399.9,0.0,Carteira Digital,Concluido,5,1199.6999999999998,0.0,1199.6999999999998,2024-03-01,True
+PED-100346,2024-03-02,CLI-1159,25,M,Sp,Sao Paulo,Esportes,Corda De Pular,1,59.9,0.1,Cartao,Concluido,5,59.9,5.99,53.91,2024-03-01,True
+PED-100718,2024-03-04,CLI-1015,44,Outro,Pr,Curitiba,Moda,Jaqueta,1,319.9,0.2,Pix,Concluido,4,319.9,63.98,255.92,2024-03-01,True
+PED-100447,2024-03-04,CLI-1008,43,F,Mg,Belo Horizonte,Moda,Mochila Urbana,2,189.9,0.15,Pix,Cancelado,4,379.8,56.97,322.83000000000004,2024-03-01,False
+PED-100376,2024-03-06,CLI-1223,59,Outro,Sp,Sao Paulo,Esportes,Corda De Pular,1,59.9,0.0,Pix,Concluido,4,59.9,0.0,59.9,2024-03-01,True
+PED-100303,2024-03-07,CLI-1123,61,M,Ce,Fortaleza,Moda,Tenis Casual,3,279.9,0.0,Boleto,Concluido,3,839.6999999999999,0.0,839.6999999999999,2024-03-01,True
+PED-100245,2024-03-09,CLI-1205,56,Outro,Go,Goiania,Esportes,Colchonete,1,99.9,0.0,Pix,Concluido,3,99.9,0.0,99.9,2024-03-01,True
+PED-100433,2024-03-13,CLI-1103,50,M,Sc,Florianopolis,Beleza,Secador,3,199.9,0.1,Cartao,Concluido,4,599.7,59.970000000000006,539.73,2024-03-01,True
+PED-100383,2024-03-14,CLI-1078,44,M,Rj,Rio De Janeiro,Casa,Jogo De Panelas,1,349.9,0.05,Cartao,Concluido,5,349.9,17.495,332.405,2024-03-01,True
+PED-100171,2024-03-14,CLI-1023,31,F,Sp,Sao Paulo,Moda,Tenis Casual,4,279.9,0.0,Pix,Concluido,4,1119.6,0.0,1119.6,2024-03-01,True
+PED-100635,2024-03-17,CLI-1131,63,M,Sc,Florianopolis,Eletronicos,Smartwatch,3,399.9,0.1,Cartao,Concluido,2,1199.6999999999998,119.96999999999998,1079.7299999999998,2024-03-01,True
+PED-100523,2024-03-18,CLI-1007,18,M,Ba,Salvador,Moda,Jaqueta,1,319.9,0.15,Cartao,Concluido,4,319.9,47.98499999999999,271.91499999999996,2024-03-01,True
+PED-100073,2024-03-18,CLI-1198,23,Outro,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,4,149.9,0.15,Pix,Concluido,3,599.6,89.94,509.66,2024-03-01,True
+PED-100522,2024-03-18,CLI-1195,34,M,Rs,Porto Alegre,Eletronicos,Fone Bluetooth,1,149.9,0.05,Cartao,Cancelado,4,149.9,7.495000000000001,142.405,2024-03-01,False
+PED-100620,2024-03-19,CLI-1038,44,F,Go,Goiania,Beleza,Secador,1,199.9,0.05,Cartao,Concluido,5,199.9,9.995000000000001,189.905,2024-03-01,True
+PED-100292,2024-03-19,CLI-1049,68,F,Mg,Belo Horizonte,Esportes,Garrafa Termica,1,129.9,0.1,Pix,Concluido,4,129.9,12.990000000000002,116.91,2024-03-01,True
+PED-100554,2024-03-20,CLI-1038,60,F,Ce,Fortaleza,Eletronicos,Teclado Mecanico,1,289.9,0.0,Boleto,Em Processamento,5,289.9,0.0,289.9,2024-03-01,False
+PED-100194,2024-03-21,CLI-1143,34,F,Sp,Sao Paulo,Eletronicos,Smartwatch,1,399.9,0.15,Pix,Concluido,5,399.9,59.98499999999999,339.91499999999996,2024-03-01,True
+PED-100280,2024-03-22,CLI-1155,41,M,Rs,Porto Alegre,Eletronicos,Fone Bluetooth,1,149.9,0.2,Cartao,Concluido,4,149.9,29.980000000000004,119.92,2024-03-01,True
+PED-100255,2024-03-22,CLI-1060,50,F,Ba,Salvador,Beleza,Secador,1,199.9,0.1,Pix,Cancelado,4,199.9,19.990000000000002,179.91,2024-03-01,False
+PED-100619,2024-03-22,CLI-1197,58,M,Sc,Florianopolis,Eletronicos,Smartwatch,3,399.9,0.15,Cartao,Cancelado,4,1199.6999999999998,179.95499999999996,1019.7449999999999,2024-03-01,False
+PED-100658,2024-03-22,CLI-1023,65,F,Pr,Curitiba,Moda,Jaqueta,1,319.9,0.0,Pix,Cancelado,4,319.9,0.0,319.9,2024-03-01,False
+PED-100334,2024-03-24,CLI-1054,60,F,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,1,289.9,0.0,Pix,Cancelado,5,289.9,0.0,289.9,2024-03-01,False
+PED-100375,2024-03-24,CLI-1031,54,F,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,1,149.9,0.1,Pix,Concluido,3,149.9,14.990000000000002,134.91,2024-03-01,True
+PED-100036,2024-03-27,CLI-1202,54,F,Sp,Sao Paulo,Eletronicos,Smartwatch,1,399.9,0.0,Cartao,Concluido,3,399.9,0.0,399.9,2024-03-01,True
+PED-100048,2024-03-27,CLI-1097,44,F,Rs,Porto Alegre,Moda,Tenis Casual,1,279.9,0.05,Cartao,Concluido,5,279.9,13.995,265.905,2024-03-01,True
+PED-100332,2024-03-30,CLI-1201,20,F,Ba,Salvador,Moda,Mochila Urbana,4,189.9,0.1,Cartao,Concluido,5,759.6,75.96000000000001,683.64,2024-03-01,True
+PED-100087,2024-03-30,CLI-1043,30,F,Pr,Curitiba,Casa,Cafeteira,1,229.9,0.0,Carteira Digital,Concluido,2,229.9,0.0,229.9,2024-03-01,True
+PED-100323,2024-03-31,CLI-1079,60,M,Rj,Rio De Janeiro,Moda,Mochila Urbana,1,189.9,0.1,Cartao,Em Processamento,4,189.9,18.990000000000002,170.91,2024-03-01,False
+PED-100612,2024-03-31,CLI-1024,34,F,Sp,Sao Paulo,Esportes,Colchonete,1,99.9,0.15,Cartao,Concluido,2,99.9,14.985,84.915,2024-03-01,True
+PED-100587,2024-03-31,CLI-1126,46,M,Sp,Sao Paulo,Casa,Jogo De Panelas,1,349.9,0.0,Cartao,Concluido,5,349.9,0.0,349.9,2024-03-01,True
+PED-100401,2024-04-02,CLI-1004,45,M,Sp,Sao Paulo,Esportes,Corda De Pular,3,59.9,0.0,Boleto,Concluido,3,179.7,0.0,179.7,2024-04-01,True
+PED-100610,2024-04-02,CLI-1122,55,F,Sc,Florianopolis,Moda,Tenis Casual,2,279.9,0.1,Cartao,Em Processamento,4,559.8,55.98,503.81999999999994,2024-04-01,False
+PED-100314,2024-04-05,CLI-1068,36,M,Ba,Salvador,Casa,Aspirador Vertical,1,599.9,0.1,Boleto,Cancelado,5,599.9,59.99,539.91,2024-04-01,False
+PED-100205,2024-04-05,CLI-1138,26,Outro,Pe,Recife,Eletronicos,Fone Bluetooth,3,149.9,0.0,Cartao,Concluido,4,449.70000000000005,0.0,449.70000000000005,2024-04-01,True
+PED-100660,2024-04-06,CLI-1157,28,M,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,3,289.9,0.15,Cartao,Cancelado,4,869.6999999999999,130.45499999999998,739.2449999999999,2024-04-01,False
+PED-100495,2024-04-06,CLI-1170,21,F,Sp,Sao Paulo,Moda,Tenis Casual,1,279.9,0.05,Cartao,Cancelado,4,279.9,13.995,265.905,2024-04-01,False
+PED-100714,2024-04-07,CLI-1032,61,M,Go,Goiania,Beleza,Secador,1,199.9,0.0,Cartao,Concluido,2,199.9,0.0,199.9,2024-04-01,True
+PED-100538,2024-04-09,CLI-1161,39,M,Ce,Fortaleza,Eletronicos,Fone Bluetooth,1,149.9,0.0,Pix,Concluido,5,149.9,0.0,149.9,2024-04-01,True
+PED-100160,2024-04-10,CLI-1015,65,F,Ba,Salvador,Eletronicos,Fone Bluetooth,2,149.9,0.05,Pix,Concluido,4,299.8,14.990000000000002,284.81,2024-04-01,True
+PED-100382,2024-04-13,CLI-1165,44,F,Sp,Sao Paulo,Beleza,Kit Skincare,2,159.9,0.0,Pix,Concluido,3,319.8,0.0,319.8,2024-04-01,True
+PED-100161,2024-04-14,CLI-1178,41,M,Rj,Rio De Janeiro,Esportes,Garrafa Termica,1,129.9,0.15,Pix,Concluido,5,129.9,19.485,110.415,2024-04-01,True
+PED-100656,2024-04-14,CLI-1024,48,M,Go,Goiania,Beleza,Secador,2,199.9,0.0,Cartao,Concluido,5,399.8,0.0,399.8,2024-04-01,True
+PED-100393,2024-04-15,CLI-1156,66,F,Mg,Belo Horizonte,Moda,Tenis Casual,1,279.9,0.1,Boleto,Concluido,3,279.9,27.99,251.90999999999997,2024-04-01,True
+PED-100083,2024-04-17,CLI-1008,36,F,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,2,149.9,0.1,Pix,Cancelado,4,299.8,29.980000000000004,269.82,2024-04-01,False
+PED-100042,2024-04-17,CLI-1059,49,F,Ba,Salvador,Moda,Tenis Casual,1,279.9,0.0,Pix,Concluido,5,279.9,0.0,279.9,2024-04-01,True
+PED-100218,2024-04-18,CLI-1212,64,F,Sc,Florianopolis,Esportes,Garrafa Termica,2,129.9,0.0,Pix,Cancelado,4,259.8,0.0,259.8,2024-04-01,False
+PED-100132,2024-04-20,CLI-1082,41,M,Pr,Curitiba,Moda,Jaqueta,2,319.9,0.1,Carteira Digital,Em Processamento,5,639.8,63.98,575.8199999999999,2024-04-01,False
+PED-100567,2024-04-20,CLI-1112,44,M,Sc,Florianopolis,Eletronicos,Fone Bluetooth,1,149.9,0.1,Cartao,Concluido,5,149.9,14.990000000000002,134.91,2024-04-01,True
+PED-100236,2024-04-20,CLI-1195,21,M,Pr,Curitiba,Casa,Cafeteira,3,229.9,0.0,Cartao,Concluido,3,689.7,0.0,689.7,2024-04-01,True
+PED-100525,2024-04-21,CLI-1163,35,F,Rj,Rio De Janeiro,Casa,Jogo De Panelas,4,349.9,0.1,Cartao,Cancelado,4,1399.6,139.96,1259.6399999999999,2024-04-01,False
+PED-100080,2024-04-22,CLI-1155,52,F,Sp,Sao Paulo,Moda,Jaqueta,1,319.9,0.1,Boleto,Em Processamento,4,319.9,31.99,287.90999999999997,2024-04-01,False
+PED-100415,2024-04-22,CLI-1152,39,M,Rs,Porto Alegre,Eletronicos,Teclado Mecanico,1,289.9,0.2,Pix,Concluido,5,289.9,57.98,231.92,2024-04-01,True
+PED-100189,2024-04-22,CLI-1181,61,M,Mg,Belo Horizonte,Eletronicos,Fone Bluetooth,1,149.9,0.05,Boleto,Concluido,4,149.9,7.495000000000001,142.405,2024-04-01,True
+PED-100624,2024-04-23,CLI-1196,24,F,Mg,Belo Horizonte,Esportes,Colchonete,3,99.9,0.1,Boleto,Concluido,4,299.70000000000005,29.970000000000006,269.73,2024-04-01,True
+PED-100102,2024-04-24,CLI-1227,70,M,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,2,149.9,0.0,Cartao,Cancelado,5,299.8,0.0,299.8,2024-04-01,False
+PED-100646,2024-04-25,CLI-1066,59,M,Rj,Rio De Janeiro,Eletronicos,Teclado Mecanico,1,289.9,0.0,Boleto,Cancelado,4,289.9,0.0,289.9,2024-04-01,False
+PED-100434,2024-04-27,CLI-1019,47,F,Go,Goiania,Eletronicos,Smartwatch,2,399.9,0.0,Pix,Concluido,5,799.8,0.0,799.8,2024-04-01,True
+PED-100450,2024-04-28,CLI-1089,69,F,Rj,Rio De Janeiro,Eletronicos,Fone Bluetooth,1,149.9,0.15,Pix,Concluido,2,149.9,22.485,127.415,2024-04-01,True
+PED-100124,2024-04-29,CLI-1115,40,M,Sp,Sao Paulo,Eletronicos,Smartwatch,1,399.9,0.0,Cartao,Concluido,4,399.9,0.0,399.9,2024-04-01,True
+PED-100631,2024-04-29,CLI-1074,20,F,Rj,Rio De Janeiro,Beleza,Perfume,2,249.9,0.1,Boleto,Cancelado,5,499.8,49.980000000000004,449.82,2024-04-01,False
+PED-100052,2024-05-01,CLI-1187,41,M,Sp,Sao Paulo,Beleza,Kit Skincare,1,159.9,0.1,Cartao,Concluido,4,159.9,15.990000000000002,143.91,2024-05-01,True
+PED-100238,2024-05-01,CLI-1142,67,M,Sc,Florianopolis,Eletronicos,Teclado Mecanico,2,289.9,0.0,Cartao,Concluido,3,579.8,0.0,579.8,2024-05-01,True
+PED-100699,2024-05-03,CLI-1071,51,F,Mg,Belo Horizonte,Casa,Aspirador Vertical,1,599.9,0.0,Cartao,Concluido,4,599.9,0.0,599.9,2024-05-01,True
+PED-100056,2024-05-04,CLI-1220,21,F,Mg,Belo Horizonte,Casa,Aspirador Vertical,1,599.9,0.05,Boleto,Cancelado,3,599.9,29.995,569.905,2024-05-01,False
+PED-100581,2024-05-05,CLI-1035,36,M,Rs,Porto Alegre,Moda,Mochila Urbana,1,189.9,0.1,Boleto,Concluido,4,189.9,18.990000000000002,170.91,2024-05-01,True
+PED-100234,2024-05-07,CLI-1099,41,M,Sp,Sao Paulo,Esportes,Garrafa Termica,1,129.9,0.05,Pix,Cancelado,4,129.9,6.495000000000001,123.405,2024-05-01,False
+PED-100582,2024-05-08,CLI-1203,32,F,Sc,Florianopolis,Eletronicos,Smartwatch,1,399.9,0.0,Pix,Concluido,5,399.9,0.0,399.9,2024-05-01,True
+PED-100279,2024-05-10,CLI-1106,65,F,Sp,Sao Paulo,Beleza,Perfume,1,249.9,0.0,Boleto,Concluido,4,249.9,0.0,249.9,2024-05-01,True
+PED-100563,2024-05-10,CLI-1220,61,M,Sp,Sao Paulo,Moda,Mochila Urbana,3,189.9,0.05,Pix,Concluido,5,569.7,28.485000000000003,541.215,2024-05-01,True
+PED-100098,2024-05-11,CLI-1104,30,F,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,1,289.9,0.1,Cartao,Concluido,5,289.9,28.99,260.90999999999997,2024-05-01,True
+PED-100148,2024-05-11,CLI-1222,61,F,Pe,Recife,Casa,Jogo De Panelas,1,349.9,0.1,Carteira Digital,Em Processamento,5,349.9,34.99,314.90999999999997,2024-05-01,False
+PED-100500,2024-05-12,CLI-1127,58,F,Go,Goiania,Beleza,Kit Skincare,3,159.9,0.0,Boleto,Concluido,5,479.70000000000005,0.0,479.70000000000005,2024-05-01,True
+PED-100006,2024-05-13,CLI-1237,70,M,Sc,Florianopolis,Beleza,Secador,1,199.9,0.0,Pix,Cancelado,4,199.9,0.0,199.9,2024-05-01,False
+PED-100483,2024-05-14,CLI-1155,60,M,Go,Goiania,Casa,Aspirador Vertical,2,599.9,0.1,Cartao,Em Processamento,2,1199.8,119.98,1079.82,2024-05-01,False
+PED-100158,2024-05-16,CLI-1211,20,F,Sp,Sao Paulo,Beleza,Secador,2,199.9,0.0,Pix,Concluido,4,399.8,0.0,399.8,2024-05-01,True
+PED-100387,2024-05-16,CLI-1037,44,M,Sp,Sao Paulo,Esportes,Garrafa Termica,2,129.9,0.1,Boleto,Concluido,3,259.8,25.980000000000004,233.82,2024-05-01,True
+PED-100320,2024-05-17,CLI-1037,55,M,Mg,Belo Horizonte,Esportes,Colchonete,1,99.9,0.1,Carteira Digital,Cancelado,5,99.9,9.990000000000002,89.91,2024-05-01,False
+PED-100456,2024-05-19,CLI-1193,26,M,Sc,Florianopolis,Esportes,Colchonete,3,99.9,0.05,Pix,Cancelado,5,299.70000000000005,14.985000000000003,284.71500000000003,2024-05-01,False
+PED-100599,2024-05-20,CLI-1047,32,F,Pr,Curitiba,Moda,Mochila Urbana,1,189.9,0.1,Cartao,Em Processamento,4,189.9,18.990000000000002,170.91,2024-05-01,False
+PED-100060,2024-05-22,CLI-1049,64,F,Rj,Rio De Janeiro,Moda,Mochila Urbana,2,189.9,0.2,Cartao,Concluido,2,379.8,75.96000000000001,303.84000000000003,2024-05-01,True
+PED-100562,2024-05-22,CLI-1126,70,Outro,Mg,Belo Horizonte,Beleza,Perfume,1,249.9,0.0,Cartao,Concluido,3,249.9,0.0,249.9,2024-05-01,True
+PED-100086,2024-05-26,CLI-1158,39,F,Ba,Salvador,Beleza,Kit Skincare,1,159.9,0.05,Cartao,Concluido,4,159.9,7.995000000000001,151.905,2024-05-01,True
+PED-100586,2024-05-26,CLI-1171,42,M,Ba,Salvador,Eletronicos,Smartwatch,4,399.9,0.1,Cartao,Concluido,2,1599.6,159.96,1439.6399999999999,2024-05-01,True
+PED-100605,2024-05-26,CLI-1170,33,M,Sp,Sao Paulo,Beleza,Secador,1,199.9,0.1,Cartao,Concluido,5,199.9,19.990000000000002,179.91,2024-05-01,True
+PED-100492,2024-05-28,CLI-1090,30,F,Pr,Curitiba,Moda,Jaqueta,2,319.9,0.15,Cartao,Concluido,1,639.8,95.96999999999998,543.8299999999999,2024-05-01,True
+PED-100399,2024-05-30,CLI-1066,28,F,Mg,Belo Horizonte,Casa,Aspirador Vertical,2,599.9,0.0,Cartao,Concluido,4,1199.8,0.0,1199.8,2024-05-01,True
+PED-100055,2024-06-02,CLI-1162,42,M,Rj,Rio De Janeiro,Beleza,Perfume,4,249.9,0.05,Cartao,Concluido,3,999.6,49.980000000000004,949.62,2024-06-01,True
+PED-100439,2024-06-03,CLI-1202,65,M,Sp,Sao Paulo,Moda,Tenis Casual,1,279.9,0.0,Pix,Concluido,5,279.9,0.0,279.9,2024-06-01,True
+PED-100289,2024-06-03,CLI-1022,66,F,Rj,Rio De Janeiro,Eletronicos,Fone Bluetooth,1,149.9,0.1,Carteira Digital,Concluido,4,149.9,14.990000000000002,134.91,2024-06-01,True
+PED-100231,2024-06-03,CLI-1200,44,F,Pe,Recife,Casa,Aspirador Vertical,1,599.9,0.0,Pix,Concluido,4,599.9,0.0,599.9,2024-06-01,True
+PED-100494,2024-06-03,CLI-1154,54,F,Sp,Sao Paulo,Beleza,Kit Skincare,1,159.9,0.05,Pix,Concluido,3,159.9,7.995000000000001,151.905,2024-06-01,True
+PED-100546,2024-06-06,CLI-1197,39,M,Rj,Rio De Janeiro,Casa,Jogo De Panelas,3,349.9,0.0,Carteira Digital,Concluido,4,1049.6999999999998,0.0,1049.6999999999998,2024-06-01,True
+PED-100499,2024-06-06,CLI-1068,28,M,Go,Goiania,Moda,Tenis Casual,2,279.9,0.2,Boleto,Em Processamento,1,559.8,111.96,447.84,2024-06-01,False
+PED-100600,2024-06-06,CLI-1104,48,F,Sc,Florianopolis,Casa,Cafeteira,2,229.9,0.05,Carteira Digital,Cancelado,4,459.8,22.990000000000002,436.81,2024-06-01,False
+PED-100071,2024-06-07,CLI-1015,18,M,Go,Goiania,Casa,Cafeteira,1,229.9,0.1,Cartao,Cancelado,4,229.9,22.990000000000002,206.91,2024-06-01,False
+PED-100520,2024-06-08,CLI-1004,42,F,Go,Goiania,Beleza,Secador,1,199.9,0.0,Cartao,Concluido,3,199.9,0.0,199.9,2024-06-01,True
+PED-100405,2024-06-09,CLI-1075,63,Outro,Sp,Sao Paulo,Esportes,Colchonete,2,99.9,0.1,Pix,Concluido,2,199.8,19.980000000000004,179.82,2024-06-01,True
+PED-100301,2024-06-09,CLI-1021,35,F,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,1,289.9,0.0,Cartao,Cancelado,5,289.9,0.0,289.9,2024-06-01,False
+PED-100584,2024-06-10,CLI-1116,26,M,Go,Goiania,Esportes,Corda De Pular,1,59.9,0.1,Cartao,Concluido,5,59.9,5.99,53.91,2024-06-01,True
+PED-100070,2024-06-13,CLI-1074,30,F,Sp,Sao Paulo,Eletronicos,Smartwatch,1,399.9,0.0,Cartao,Concluido,3,399.9,0.0,399.9,2024-06-01,True
+PED-100063,2024-06-14,CLI-1232,40,F,Ba,Salvador,Beleza,Kit Skincare,1,159.9,0.0,Pix,Concluido,5,159.9,0.0,159.9,2024-06-01,True
+PED-100131,2024-06-14,CLI-1101,68,F,Ba,Salvador,Esportes,Colchonete,2,99.9,0.15,Cartao,Concluido,2,199.8,29.97,169.83,2024-06-01,True
+PED-100152,2024-06-15,CLI-1090,52,M,Sp,Sao Paulo,Eletronicos,Smartwatch,2,399.9,0.0,Pix,Concluido,3,799.8,0.0,799.8,2024-06-01,True
+PED-100335,2024-06-16,CLI-1081,43,F,Sc,Florianopolis,Moda,Tenis Casual,1,279.9,0.1,Carteira Digital,Cancelado,5,279.9,27.99,251.90999999999997,2024-06-01,False
+PED-100409,2024-06-20,CLI-1005,51,M,Mg,Belo Horizonte,Esportes,Corda De Pular,1,59.9,0.05,Pix,Concluido,3,59.9,2.995,56.905,2024-06-01,True
+PED-100362,2024-06-20,CLI-1118,18,F,Sp,Sao Paulo,Eletronicos,Smartwatch,1,399.9,0.15,Boleto,Cancelado,5,399.9,59.98499999999999,339.91499999999996,2024-06-01,False
+PED-100486,2024-06-21,CLI-1017,22,M,Sp,Sao Paulo,Casa,Aspirador Vertical,3,599.9,0.1,Cartao,Concluido,5,1799.6999999999998,179.97,1619.7299999999998,2024-06-01,True
+PED-100180,2024-06-21,CLI-1165,41,F,Sp,Sao Paulo,Esportes,Corda De Pular,3,59.9,0.1,Cartao,Concluido,4,179.7,17.97,161.73,2024-06-01,True
+PED-100215,2024-06-21,CLI-1161,54,M,Rj,Rio De Janeiro,Beleza,Kit Skincare,1,159.9,0.0,Cartao,Concluido,3,159.9,0.0,159.9,2024-06-01,True
+PED-100244,2024-06-21,CLI-1163,33,F,Rj,Rio De Janeiro,Moda,Mochila Urbana,4,189.9,0.0,Cartao,Em Processamento,4,759.6,0.0,759.6,2024-06-01,False
+PED-100162,2024-06-22,CLI-1001,45,F,Rj,Rio De Janeiro,Eletronicos,Teclado Mecanico,1,289.9,0.1,Cartao,Em Processamento,3,289.9,28.99,260.90999999999997,2024-06-01,False
+PED-100260,2024-06-22,CLI-1131,43,F,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,3,149.9,0.0,Pix,Concluido,4,449.70000000000005,0.0,449.70000000000005,2024-06-01,True
+PED-100701,2024-06-22,CLI-1103,45,M,Sc,Florianopolis,Casa,Jogo De Panelas,2,349.9,0.1,Cartao,Cancelado,5,699.8,69.98,629.8199999999999,2024-06-01,False
+PED-100151,2024-06-24,CLI-1211,38,F,Pr,Curitiba,Esportes,Colchonete,1,99.9,0.0,Pix,Em Processamento,5,99.9,0.0,99.9,2024-06-01,False
+PED-100015,2024-06-24,CLI-1060,26,M,Mg,Belo Horizonte,Eletronicos,Fone Bluetooth,1,149.9,0.0,Pix,Em Processamento,4,149.9,0.0,149.9,2024-06-01,False
+PED-100272,2024-06-25,CLI-1053,29,M,Rj,Rio De Janeiro,Eletronicos,Teclado Mecanico,1,289.9,0.05,Boleto,Concluido,4,289.9,14.495,275.405,2024-06-01,True
+PED-100428,2024-06-26,CLI-1173,55,F,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,1,149.9,0.1,Pix,Concluido,4,149.9,14.990000000000002,134.91,2024-06-01,True
+PED-100026,2024-06-26,CLI-1004,55,M,Sp,Sao Paulo,Casa,Aspirador Vertical,1,599.9,0.2,Carteira Digital,Concluido,4,599.9,119.98,479.91999999999996,2024-06-01,True
+PED-100688,2024-06-27,CLI-1200,56,F,Sp,Sao Paulo,Beleza,Kit Skincare,1,159.9,0.15,Cartao,Concluido,2,159.9,23.985,135.91500000000002,2024-06-01,True
+PED-100344,2024-06-28,CLI-1097,20,M,Rj,Rio De Janeiro,Beleza,Secador,1,199.9,0.0,Cartao,Concluido,5,199.9,0.0,199.9,2024-06-01,True
+PED-100091,2024-06-30,CLI-1182,27,M,Sc,Florianopolis,Moda,Tenis Casual,2,279.9,0.1,Pix,Concluido,4,559.8,55.98,503.81999999999994,2024-06-01,True
+PED-100414,2024-07-02,CLI-1190,70,F,Mg,Belo Horizonte,Eletronicos,Fone Bluetooth,3,149.9,0.05,Cartao,Concluido,3,449.70000000000005,22.485000000000003,427.21500000000003,2024-07-01,True
+PED-100400,2024-07-03,CLI-1032,53,M,Mg,Belo Horizonte,Casa,Aspirador Vertical,1,599.9,0.1,Pix,Concluido,5,599.9,59.99,539.91,2024-07-01,True
+PED-100155,2024-07-04,CLI-1138,62,M,Sp,Sao Paulo,Moda,Tenis Casual,4,279.9,0.1,Pix,Concluido,3,1119.6,111.96,1007.6399999999999,2024-07-01,True
+PED-100134,2024-07-06,CLI-1081,54,F,Rj,Rio De Janeiro,Moda,Tenis Casual,2,279.9,0.0,Cartao,Concluido,4,559.8,0.0,559.8,2024-07-01,True
+PED-100713,2024-07-07,CLI-1238,67,M,Rs,Porto Alegre,Esportes,Colchonete,1,99.9,0.0,Cartao,Concluido,5,99.9,0.0,99.9,2024-07-01,True
+PED-100564,2024-07-12,CLI-1113,25,M,Sp,Sao Paulo,Moda,Jaqueta,2,319.9,0.15,Carteira Digital,Cancelado,4,639.8,95.96999999999998,543.8299999999999,2024-07-01,False
+PED-100089,2024-07-12,CLI-1013,46,F,Sp,Sao Paulo,Casa,Jogo De Panelas,1,349.9,0.0,Cartao,Cancelado,4,349.9,0.0,349.9,2024-07-01,False
+PED-100294,2024-07-17,CLI-1207,20,M,Ce,Fortaleza,Beleza,Secador,3,199.9,0.1,Cartao,Cancelado,5,599.7,59.970000000000006,539.73,2024-07-01,False
+PED-100572,2024-07-17,CLI-1139,44,Outro,Rj,Rio De Janeiro,Casa,Cafeteira,1,229.9,0.0,Cartao,Cancelado,4,229.9,0.0,229.9,2024-07-01,False
+PED-100566,2024-07-18,CLI-1211,42,F,Rj,Rio De Janeiro,Beleza,Perfume,1,249.9,0.1,Pix,Concluido,4,249.9,24.990000000000002,224.91,2024-07-01,True
+PED-100112,2024-07-18,CLI-1121,52,M,Go,Goiania,Casa,Aspirador Vertical,3,599.9,0.0,Carteira Digital,Concluido,5,1799.6999999999998,0.0,1799.6999999999998,2024-07-01,True
+PED-100594,2024-07-18,CLI-1010,47,M,Sc,Florianopolis,Eletronicos,Teclado Mecanico,2,289.9,0.05,Cartao,Cancelado,2,579.8,28.99,550.81,2024-07-01,False
+PED-100430,2024-07-19,CLI-1075,24,F,Sp,Sao Paulo,Esportes,Corda De Pular,1,59.9,0.15,Pix,Concluido,5,59.9,8.985,50.915,2024-07-01,True
+PED-100396,2024-07-19,CLI-1155,54,M,Mg,Belo Horizonte,Beleza,Secador,1,199.9,0.05,Cartao,Concluido,3,199.9,9.995000000000001,189.905,2024-07-01,True
+PED-100644,2024-07-19,CLI-1042,24,M,Mg,Belo Horizonte,Moda,Tenis Casual,1,279.9,0.05,Cartao,Concluido,5,279.9,13.995,265.905,2024-07-01,True
+PED-100187,2024-07-20,CLI-1131,41,M,Ce,Fortaleza,Eletronicos,Smartwatch,2,399.9,0.0,Cartao,Cancelado,4,799.8,0.0,799.8,2024-07-01,False
+PED-100557,2024-07-21,CLI-1005,46,F,Pe,Recife,Casa,Jogo De Panelas,1,349.9,0.05,Cartao,Cancelado,4,349.9,17.495,332.405,2024-07-01,False
+PED-100248,2024-07-22,CLI-1174,42,M,Rj,Rio De Janeiro,Casa,Jogo De Panelas,1,349.9,0.1,Cartao,Concluido,5,349.9,34.99,314.90999999999997,2024-07-01,True
+PED-100276,2024-07-23,CLI-1231,35,F,Pr,Curitiba,Casa,Aspirador Vertical,4,599.9,0.0,Pix,Concluido,2,2399.6,0.0,2399.6,2024-07-01,True
+PED-100679,2024-07-24,CLI-1023,54,F,Pe,Recife,Casa,Jogo De Panelas,3,349.9,0.05,Cartao,Concluido,5,1049.6999999999998,52.48499999999999,997.2149999999998,2024-07-01,True
+PED-100652,2024-07-24,CLI-1060,65,M,Sc,Florianopolis,Moda,Jaqueta,2,319.9,0.05,Cartao,Em Processamento,4,639.8,31.99,607.81,2024-07-01,False
+PED-100545,2024-07-26,CLI-1027,56,M,Sc,Florianopolis,Casa,Jogo De Panelas,1,349.9,0.05,Carteira Digital,Cancelado,5,349.9,17.495,332.405,2024-07-01,False
+PED-100404,2024-07-26,CLI-1019,45,M,Rs,Porto Alegre,Esportes,Garrafa Termica,1,129.9,0.0,Cartao,Concluido,5,129.9,0.0,129.9,2024-07-01,True
+PED-100046,2024-07-26,CLI-1036,29,M,Mg,Belo Horizonte,Casa,Cafeteira,1,229.9,0.1,Pix,Em Processamento,2,229.9,22.990000000000002,206.91,2024-07-01,False
+PED-100678,2024-07-27,CLI-1192,33,F,Go,Goiania,Eletronicos,Smartwatch,1,399.9,0.1,Carteira Digital,Concluido,1,399.9,39.99,359.90999999999997,2024-07-01,True
+PED-100201,2024-07-27,CLI-1213,69,F,Mg,Belo Horizonte,Esportes,Corda De Pular,1,59.9,0.0,Cartao,Em Processamento,4,59.9,0.0,59.9,2024-07-01,False
+PED-100536,2024-07-28,CLI-1040,69,F,Sp,Sao Paulo,Moda,Jaqueta,3,319.9,0.1,Pix,Concluido,3,959.6999999999999,95.97,863.7299999999999,2024-07-01,True
+PED-100163,2024-07-28,CLI-1042,44,F,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,1,149.9,0.05,Boleto,Cancelado,5,149.9,7.495000000000001,142.405,2024-07-01,False
+PED-100145,2024-07-29,CLI-1072,51,F,Go,Goiania,Eletronicos,Fone Bluetooth,3,149.9,0.0,Boleto,Cancelado,5,449.70000000000005,0.0,449.70000000000005,2024-07-01,False
+PED-100282,2024-07-29,CLI-1112,49,F,Pr,Curitiba,Eletronicos,Smartwatch,2,399.9,0.0,Pix,Cancelado,4,799.8,0.0,799.8,2024-07-01,False
+PED-100141,2024-07-30,CLI-1087,44,M,Sp,Sao Paulo,Casa,Cafeteira,1,229.9,0.1,Boleto,Cancelado,5,229.9,22.990000000000002,206.91,2024-07-01,False
+PED-100625,2024-07-30,CLI-1208,44,F,Ce,Fortaleza,Casa,Aspirador Vertical,2,599.9,0.1,Cartao,Concluido,5,1199.8,119.98,1079.82,2024-07-01,True
+PED-100182,2024-08-04,CLI-1057,27,F,Rj,Rio De Janeiro,Moda,Jaqueta,3,319.9,0.0,Cartao,Em Processamento,4,959.6999999999999,0.0,959.6999999999999,2024-08-01,False
+PED-100716,2024-08-05,CLI-1161,19,Outro,Pr,Curitiba,Moda,Mochila Urbana,1,189.9,0.15,Pix,Concluido,4,189.9,28.485,161.41500000000002,2024-08-01,True
+PED-100069,2024-08-06,CLI-1142,30,F,Go,Goiania,Casa,Jogo De Panelas,2,349.9,0.15,Cartao,Concluido,4,699.8,104.96999999999998,594.8299999999999,2024-08-01,True
+PED-100340,2024-08-06,CLI-1158,51,F,Rs,Porto Alegre,Eletronicos,Fone Bluetooth,3,149.9,0.0,Cartao,Concluido,1,449.70000000000005,0.0,449.70000000000005,2024-08-01,True
+PED-100336,2024-08-07,CLI-1054,47,F,Pr,Curitiba,Eletronicos,Fone Bluetooth,1,149.9,0.05,Cartao,Concluido,5,149.9,7.495000000000001,142.405,2024-08-01,True
+PED-100184,2024-08-08,CLI-1150,27,F,Pr,Curitiba,Beleza,Perfume,2,249.9,0.05,Cartao,Concluido,4,499.8,24.990000000000002,474.81,2024-08-01,True
+PED-100528,2024-08-09,CLI-1053,61,F,Mg,Belo Horizonte,Beleza,Secador,1,199.9,0.05,Pix,Concluido,4,199.9,9.995000000000001,189.905,2024-08-01,True
+PED-100078,2024-08-09,CLI-1122,24,F,Mg,Belo Horizonte,Moda,Mochila Urbana,1,189.9,0.0,Cartao,Em Processamento,4,189.9,0.0,189.9,2024-08-01,False
+PED-100446,2024-08-09,CLI-1134,36,F,Rj,Rio De Janeiro,Esportes,Colchonete,1,99.9,0.05,Cartao,Concluido,5,99.9,4.995000000000001,94.905,2024-08-01,True
+PED-100146,2024-08-10,CLI-1009,29,F,Mg,Belo Horizonte,Casa,Jogo De Panelas,1,349.9,0.0,Cartao,Em Processamento,3,349.9,0.0,349.9,2024-08-01,False
+PED-100648,2024-08-12,CLI-1016,20,M,Sp,Sao Paulo,Moda,Tenis Casual,2,279.9,0.15,Pix,Cancelado,5,559.8,83.96999999999998,475.83,2024-08-01,False
+PED-100457,2024-08-12,CLI-1225,21,M,Sc,Florianopolis,Casa,Jogo De Panelas,2,349.9,0.15,Cartao,Concluido,3,699.8,104.96999999999998,594.8299999999999,2024-08-01,True
+PED-100221,2024-08-13,CLI-1209,38,F,Pr,Curitiba,Casa,Aspirador Vertical,1,599.9,0.0,Cartao,Concluido,5,599.9,0.0,599.9,2024-08-01,True
+PED-100166,2024-08-13,CLI-1175,53,M,Pr,Curitiba,Beleza,Kit Skincare,2,159.9,0.05,Pix,Cancelado,4,319.8,15.990000000000002,303.81,2024-08-01,False
+PED-100602,2024-08-14,CLI-1177,56,F,Sc,Florianopolis,Esportes,Garrafa Termica,2,129.9,0.15,Cartao,Cancelado,1,259.8,38.97,220.83,2024-08-01,False
+PED-100181,2024-08-14,CLI-1010,68,Outro,Mg,Belo Horizonte,Esportes,Corda De Pular,1,59.9,0.05,Pix,Em Processamento,3,59.9,2.995,56.905,2024-08-01,False
+PED-100020,2024-08-17,CLI-1086,51,M,Sp,Sao Paulo,Beleza,Secador,3,199.9,0.05,Pix,Concluido,4,599.7,29.985000000000003,569.715,2024-08-01,True
+PED-100188,2024-08-18,CLI-1058,52,F,Mg,Belo Horizonte,Beleza,Perfume,4,249.9,0.1,Cartao,Concluido,4,999.6,99.96000000000001,899.64,2024-08-01,True
+PED-100368,2024-08-19,CLI-1086,45,M,Pr,Curitiba,Casa,Cafeteira,1,229.9,0.15,Pix,Concluido,5,229.9,34.485,195.41500000000002,2024-08-01,True
+PED-100068,2024-08-21,CLI-1114,18,F,Mg,Belo Horizonte,Eletronicos,Teclado Mecanico,1,289.9,0.2,Carteira Digital,Concluido,4,289.9,57.98,231.92,2024-08-01,True
+PED-100324,2024-08-22,CLI-1097,49,F,Sp,Sao Paulo,Beleza,Perfume,1,249.9,0.15,Pix,Concluido,5,249.9,37.485,212.41500000000002,2024-08-01,True
+PED-100516,2024-08-23,CLI-1162,28,M,Sp,Sao Paulo,Casa,Aspirador Vertical,1,599.9,0.0,Cartao,Concluido,3,599.9,0.0,599.9,2024-08-01,True
+PED-100534,2024-08-24,CLI-1002,65,F,Ba,Salvador,Eletronicos,Smartwatch,1,399.9,0.0,Pix,Cancelado,4,399.9,0.0,399.9,2024-08-01,False
+PED-100570,2024-08-26,CLI-1055,40,F,Rj,Rio De Janeiro,Casa,Aspirador Vertical,1,599.9,0.1,Boleto,Concluido,4,599.9,59.99,539.91,2024-08-01,True
+PED-100277,2024-08-27,CLI-1191,54,F,Mg,Belo Horizonte,Casa,Aspirador Vertical,1,599.9,0.0,Cartao,Concluido,1,599.9,0.0,599.9,2024-08-01,True
+PED-100230,2024-08-27,CLI-1216,61,M,Mg,Belo Horizonte,Eletronicos,Teclado Mecanico,1,289.9,0.0,Cartao,Concluido,3,289.9,0.0,289.9,2024-08-01,True
+PED-100213,2024-08-28,CLI-1080,32,F,Rj,Rio De Janeiro,Beleza,Perfume,1,249.9,0.2,Boleto,Concluido,4,249.9,49.980000000000004,199.92000000000002,2024-08-01,True
+PED-100675,2024-08-29,CLI-1156,49,F,Pr,Curitiba,Casa,Cafeteira,1,229.9,0.1,Boleto,Concluido,2,229.9,22.990000000000002,206.91,2024-08-01,True
+PED-100560,2024-08-29,CLI-1086,51,M,Sc,Florianopolis,Eletronicos,Teclado Mecanico,2,289.9,0.0,Carteira Digital,Concluido,4,579.8,0.0,579.8,2024-08-01,True
+PED-100502,2024-08-30,CLI-1122,30,F,Mg,Belo Horizonte,Esportes,Garrafa Termica,1,129.9,0.15,Carteira Digital,Concluido,4,129.9,19.485,110.415,2024-08-01,True
+PED-100101,2024-08-31,CLI-1072,31,M,Sp,Sao Paulo,Moda,Tenis Casual,1,279.9,0.0,Boleto,Concluido,4,279.9,0.0,279.9,2024-08-01,True
+PED-100216,2024-09-01,CLI-1196,61,F,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,1,289.9,0.0,Pix,Concluido,5,289.9,0.0,289.9,2024-09-01,True
+PED-100507,2024-09-04,CLI-1094,24,F,Pr,Curitiba,Beleza,Secador,1,199.9,0.15,Pix,Concluido,4,199.9,29.985,169.91500000000002,2024-09-01,True
+PED-100578,2024-09-05,CLI-1102,49,M,Mg,Belo Horizonte,Beleza,Secador,1,199.9,0.0,Pix,Em Processamento,2,199.9,0.0,199.9,2024-09-01,False
+PED-100671,2024-09-05,CLI-1064,44,M,Sp,Sao Paulo,Moda,Jaqueta,3,319.9,0.05,Cartao,Em Processamento,5,959.6999999999999,47.985,911.7149999999999,2024-09-01,False
+PED-100640,2024-09-05,CLI-1118,69,M,Sp,Sao Paulo,Beleza,Secador,4,199.9,0.05,Cartao,Concluido,5,799.6,39.980000000000004,759.62,2024-09-01,True
+PED-100669,2024-09-06,CLI-1120,60,M,Mg,Belo Horizonte,Casa,Cafeteira,1,229.9,0.15,Pix,Cancelado,3,229.9,34.485,195.41500000000002,2024-09-01,False
+PED-100710,2024-09-07,CLI-1012,41,F,Sc,Florianopolis,Esportes,Corda De Pular,1,59.9,0.1,Cartao,Em Processamento,3,59.9,5.99,53.91,2024-09-01,False
+PED-100413,2024-09-09,CLI-1160,19,F,Sc,Florianopolis,Esportes,Corda De Pular,1,59.9,0.05,Cartao,Cancelado,4,59.9,2.995,56.905,2024-09-01,False
+PED-100183,2024-09-10,CLI-1145,53,F,Pe,Recife,Casa,Cafeteira,1,229.9,0.15,Pix,Em Processamento,5,229.9,34.485,195.41500000000002,2024-09-01,False
+PED-100676,2024-09-11,CLI-1098,70,F,Sp,Sao Paulo,Esportes,Garrafa Termica,1,129.9,0.05,Cartao,Concluido,4,129.9,6.495000000000001,123.405,2024-09-01,True
+PED-100593,2024-09-12,CLI-1075,19,M,Sp,Sao Paulo,Moda,Jaqueta,1,319.9,0.05,Boleto,Concluido,4,319.9,15.995,303.905,2024-09-01,True
+PED-100153,2024-09-15,CLI-1078,34,M,Rs,Porto Alegre,Moda,Tenis Casual,4,279.9,0.0,Cartao,Concluido,4,1119.6,0.0,1119.6,2024-09-01,True
+PED-100394,2024-09-16,CLI-1118,19,F,Mg,Belo Horizonte,Eletronicos,Smartwatch,2,399.9,0.1,Pix,Concluido,5,799.8,79.98,719.8199999999999,2024-09-01,True
+PED-100229,2024-09-18,CLI-1205,19,M,Pe,Recife,Eletronicos,Teclado Mecanico,2,289.9,0.15,Boleto,Concluido,5,579.8,86.96999999999998,492.83,2024-09-01,True
+PED-100296,2024-09-18,CLI-1184,49,F,Rs,Porto Alegre,Esportes,Colchonete,1,99.9,0.15,Boleto,Cancelado,3,99.9,14.985,84.915,2024-09-01,False
+PED-100094,2024-09-19,CLI-1057,60,F,Mg,Belo Horizonte,Casa,Jogo De Panelas,1,349.9,0.05,Cartao,Cancelado,2,349.9,17.495,332.405,2024-09-01,False
+PED-100239,2024-09-21,CLI-1115,41,M,Ba,Salvador,Eletronicos,Smartwatch,2,399.9,0.0,Boleto,Concluido,3,799.8,0.0,799.8,2024-09-01,True
+PED-100452,2024-09-23,CLI-1069,52,Outro,Pr,Curitiba,Moda,Jaqueta,1,319.9,0.0,Cartao,Concluido,1,319.9,0.0,319.9,2024-09-01,True
+PED-100565,2024-09-24,CLI-1172,43,M,Mg,Belo Horizonte,Moda,Tenis Casual,2,279.9,0.05,Carteira Digital,Concluido,4,559.8,27.99,531.81,2024-09-01,True
+PED-100384,2024-09-24,CLI-1003,35,F,Rs,Porto Alegre,Casa,Jogo De Panelas,1,349.9,0.05,Pix,Concluido,5,349.9,17.495,332.405,2024-09-01,True
+PED-100513,2024-09-24,CLI-1194,53,M,Mg,Belo Horizonte,Eletronicos,Smartwatch,1,399.9,0.0,Pix,Cancelado,5,399.9,0.0,399.9,2024-09-01,False
+PED-100511,2024-09-25,CLI-1053,27,F,Sp,Sao Paulo,Beleza,Perfume,1,249.9,0.1,Boleto,Concluido,4,249.9,24.990000000000002,224.91,2024-09-01,True
+PED-100423,2024-09-25,CLI-1034,55,F,Mg,Belo Horizonte,Eletronicos,Smartwatch,1,399.9,0.2,Boleto,Concluido,4,399.9,79.98,319.91999999999996,2024-09-01,True
+PED-100257,2024-09-26,CLI-1171,21,F,Pr,Curitiba,Eletronicos,Fone Bluetooth,1,149.9,0.0,Cartao,Cancelado,5,149.9,0.0,149.9,2024-09-01,False
+PED-100121,2024-09-28,CLI-1052,29,M,Pr,Curitiba,Moda,Tenis Casual,1,279.9,0.1,Cartao,Concluido,1,279.9,27.99,251.90999999999997,2024-09-01,True
+PED-100172,2024-09-28,CLI-1143,53,F,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,2,289.9,0.1,Pix,Concluido,3,579.8,57.98,521.8199999999999,2024-09-01,True
+PED-100126,2024-09-28,CLI-1060,40,F,Pr,Curitiba,Casa,Jogo De Panelas,1,349.9,0.1,Pix,Cancelado,2,349.9,34.99,314.90999999999997,2024-09-01,False
+PED-100712,2024-09-30,CLI-1049,41,F,Sp,Sao Paulo,Beleza,Secador,1,199.9,0.1,Cartao,Concluido,3,199.9,19.990000000000002,179.91,2024-09-01,True
+PED-100120,2024-10-01,CLI-1053,65,M,Pr,Curitiba,Moda,Tenis Casual,1,279.9,0.1,Pix,Concluido,2,279.9,27.99,251.90999999999997,2024-10-01,True
+PED-100156,2024-10-04,CLI-1072,46,M,Sp,Sao Paulo,Eletronicos,Smartwatch,1,399.9,0.1,Pix,Em Processamento,5,399.9,39.99,359.90999999999997,2024-10-01,False
+PED-100198,2024-10-05,CLI-1010,40,M,Ba,Salvador,Eletronicos,Fone Bluetooth,2,149.9,0.1,Pix,Em Processamento,5,299.8,29.980000000000004,269.82,2024-10-01,False
+PED-100695,2024-10-06,CLI-1022,36,F,Pr,Curitiba,Moda,Jaqueta,1,319.9,0.05,Cartao,Concluido,4,319.9,15.995,303.905,2024-10-01,True
+PED-100179,2024-10-07,CLI-1092,56,M,Ce,Fortaleza,Beleza,Secador,1,199.9,0.0,Pix,Concluido,4,199.9,0.0,199.9,2024-10-01,True
+PED-100321,2024-10-08,CLI-1238,68,F,Sp,Sao Paulo,Casa,Aspirador Vertical,1,599.9,0.15,Carteira Digital,Em Processamento,5,599.9,89.985,509.91499999999996,2024-10-01,False
+PED-100037,2024-10-09,CLI-1077,44,F,Sc,Florianopolis,Casa,Aspirador Vertical,1,599.9,0.15,Boleto,Concluido,5,599.9,89.985,509.91499999999996,2024-10-01,True
+PED-100641,2024-10-13,CLI-1053,18,F,Sp,Sao Paulo,Beleza,Kit Skincare,1,159.9,0.15,Cartao,Cancelado,5,159.9,23.985,135.91500000000002,2024-10-01,False
+PED-100421,2024-10-17,CLI-1137,68,Outro,Pe,Recife,Eletronicos,Fone Bluetooth,1,149.9,0.0,Boleto,Concluido,5,149.9,0.0,149.9,2024-10-01,True
+PED-100316,2024-10-17,CLI-1004,69,M,Pr,Curitiba,Casa,Aspirador Vertical,1,599.9,0.05,Pix,Cancelado,4,599.9,29.995,569.905,2024-10-01,False
+PED-100504,2024-10-17,CLI-1226,21,Outro,Pr,Curitiba,Moda,Mochila Urbana,1,189.9,0.0,Cartao,Concluido,4,189.9,0.0,189.9,2024-10-01,True
+PED-100273,2024-10-18,CLI-1062,49,F,Rj,Rio De Janeiro,Moda,Jaqueta,3,319.9,0.0,Cartao,Concluido,4,959.6999999999999,0.0,959.6999999999999,2024-10-01,True
+PED-100694,2024-10-19,CLI-1179,27,F,Rs,Porto Alegre,Esportes,Colchonete,3,99.9,0.05,Pix,Cancelado,5,299.70000000000005,14.985000000000003,284.71500000000003,2024-10-01,False
+PED-100698,2024-10-19,CLI-1206,18,F,Rj,Rio De Janeiro,Moda,Mochila Urbana,2,189.9,0.1,Cartao,Concluido,3,379.8,37.980000000000004,341.82,2024-10-01,True
+PED-100493,2024-10-22,CLI-1176,28,F,Ba,Salvador,Casa,Jogo De Panelas,1,349.9,0.0,Cartao,Concluido,5,349.9,0.0,349.9,2024-10-01,True
+PED-100049,2024-10-23,CLI-1161,37,Outro,Ce,Fortaleza,Eletronicos,Smartwatch,2,399.9,0.1,Cartao,Concluido,3,799.8,79.98,719.8199999999999,2024-10-01,True
+PED-100617,2024-10-24,CLI-1132,60,F,Sc,Florianopolis,Casa,Jogo De Panelas,1,349.9,0.1,Cartao,Em Processamento,4,349.9,34.99,314.90999999999997,2024-10-01,False
+PED-100629,2024-10-25,CLI-1096,44,M,Rj,Rio De Janeiro,Beleza,Perfume,2,249.9,0.0,Pix,Cancelado,4,499.8,0.0,499.8,2024-10-01,False
+PED-100636,2024-10-25,CLI-1093,65,F,Rj,Rio De Janeiro,Moda,Mochila Urbana,2,189.9,0.1,Cartao,Concluido,4,379.8,37.980000000000004,341.82,2024-10-01,True
+PED-100659,2024-10-25,CLI-1219,50,M,Sc,Florianopolis,Casa,Cafeteira,1,229.9,0.0,Cartao,Concluido,5,229.9,0.0,229.9,2024-10-01,True
+PED-100353,2024-10-27,CLI-1170,44,F,Sp,Sao Paulo,Moda,Tenis Casual,2,279.9,0.0,Carteira Digital,Em Processamento,4,559.8,0.0,559.8,2024-10-01,False
+PED-100318,2024-10-27,CLI-1057,45,F,Pr,Curitiba,Casa,Aspirador Vertical,1,599.9,0.0,Cartao,Concluido,3,599.9,0.0,599.9,2024-10-01,True
+PED-100389,2024-10-29,CLI-1135,48,M,Sp,Sao Paulo,Beleza,Secador,3,199.9,0.0,Cartao,Em Processamento,4,599.7,0.0,599.7,2024-10-01,False
+PED-100348,2024-10-29,CLI-1113,25,M,Sc,Florianopolis,Moda,Mochila Urbana,2,189.9,0.1,Pix,Concluido,4,379.8,37.980000000000004,341.82,2024-10-01,True
+PED-100228,2024-10-30,CLI-1214,23,F,Sp,Sao Paulo,Moda,Mochila Urbana,1,189.9,0.0,Carteira Digital,Cancelado,3,189.9,0.0,189.9,2024-10-01,False
+PED-100614,2024-10-31,CLI-1111,44,M,Rs,Porto Alegre,Eletronicos,Teclado Mecanico,1,289.9,0.0,Pix,Concluido,5,289.9,0.0,289.9,2024-10-01,True
+PED-100379,2024-11-02,CLI-1168,40,F,Rj,Rio De Janeiro,Beleza,Kit Skincare,4,159.9,0.0,Boleto,Cancelado,1,639.6,0.0,639.6,2024-11-01,False
+PED-100697,2024-11-02,CLI-1211,67,M,Mg,Belo Horizonte,Moda,Tenis Casual,1,279.9,0.0,Cartao,Em Processamento,2,279.9,0.0,279.9,2024-11-01,False
+PED-100681,2024-11-03,CLI-1018,43,Outro,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,1,289.9,0.05,Pix,Concluido,5,289.9,14.495,275.405,2024-11-01,True
+PED-100226,2024-11-03,CLI-1139,70,M,Pr,Curitiba,Eletronicos,Teclado Mecanico,2,289.9,0.05,Cartao,Concluido,3,579.8,28.99,550.81,2024-11-01,True
+PED-100263,2024-11-05,CLI-1218,58,F,Pr,Curitiba,Eletronicos,Fone Bluetooth,1,149.9,0.0,Cartao,Concluido,5,149.9,0.0,149.9,2024-11-01,True
+PED-100689,2024-11-06,CLI-1043,18,F,Ba,Salvador,Moda,Tenis Casual,2,279.9,0.0,Cartao,Concluido,4,559.8,0.0,559.8,2024-11-01,True
+PED-100479,2024-11-06,CLI-1068,23,M,Ba,Salvador,Casa,Aspirador Vertical,2,599.9,0.1,Pix,Concluido,4,1199.8,119.98,1079.82,2024-11-01,True
+PED-100057,2024-11-07,CLI-1155,70,F,Mg,Belo Horizonte,Moda,Jaqueta,1,319.9,0.0,Carteira Digital,Concluido,4,319.9,0.0,319.9,2024-11-01,True
+PED-100693,2024-11-10,CLI-1051,47,F,Go,Goiania,Casa,Aspirador Vertical,3,599.9,0.05,Cartao,Concluido,5,1799.6999999999998,89.985,1709.715,2024-11-01,True
+PED-100527,2024-11-10,CLI-1083,26,M,Rj,Rio De Janeiro,Esportes,Colchonete,1,99.9,0.0,Pix,Concluido,3,99.9,0.0,99.9,2024-11-01,True
+PED-100044,2024-11-11,CLI-1175,20,F,Mg,Belo Horizonte,Beleza,Perfume,1,249.9,0.0,Carteira Digital,Concluido,3,249.9,0.0,249.9,2024-11-01,True
+PED-100338,2024-11-11,CLI-1071,45,F,Go,Goiania,Eletronicos,Fone Bluetooth,2,149.9,0.0,Cartao,Concluido,3,299.8,0.0,299.8,2024-11-01,True
+PED-100591,2024-11-13,CLI-1149,21,F,Pr,Curitiba,Casa,Cafeteira,2,229.9,0.05,Carteira Digital,Concluido,4,459.8,22.990000000000002,436.81,2024-11-01,True
+PED-100498,2024-11-13,CLI-1018,57,F,Ce,Fortaleza,Casa,Jogo De Panelas,1,349.9,0.05,Boleto,Em Processamento,2,349.9,17.495,332.405,2024-11-01,False
+PED-100453,2024-11-15,CLI-1065,23,Outro,Rs,Porto Alegre,Eletronicos,Teclado Mecanico,2,289.9,0.0,Cartao,Concluido,3,579.8,0.0,579.8,2024-11-01,True
+PED-100633,2024-11-16,CLI-1125,39,F,Go,Goiania,Casa,Aspirador Vertical,1,599.9,0.2,Cartao,Cancelado,4,599.9,119.98,479.91999999999996,2024-11-01,False
+PED-100096,2024-11-16,CLI-1066,39,M,Mg,Belo Horizonte,Casa,Cafeteira,2,229.9,0.1,Cartao,Concluido,3,459.8,45.980000000000004,413.82,2024-11-01,True
+PED-100041,2024-11-17,CLI-1150,44,F,Sp,Sao Paulo,Beleza,Kit Skincare,1,159.9,0.0,Cartao,Concluido,4,159.9,0.0,159.9,2024-11-01,True
+PED-100099,2024-11-18,CLI-1207,50,M,Sp,Sao Paulo,Esportes,Colchonete,1,99.9,0.15,Cartao,Em Processamento,5,99.9,14.985,84.915,2024-11-01,False
+PED-100003,2024-11-20,CLI-1032,24,F,Ba,Salvador,Moda,Mochila Urbana,2,189.9,0.05,Cartao,Concluido,5,379.8,18.990000000000002,360.81,2024-11-01,True
+PED-100708,2024-11-20,CLI-1027,32,F,Ba,Salvador,Casa,Jogo De Panelas,1,349.9,0.1,Carteira Digital,Em Processamento,3,349.9,34.99,314.90999999999997,2024-11-01,False
+PED-100305,2024-11-22,CLI-1109,58,M,Sp,Sao Paulo,Casa,Jogo De Panelas,2,349.9,0.0,Boleto,Concluido,3,699.8,0.0,699.8,2024-11-01,True
+PED-100568,2024-11-22,CLI-1069,46,M,Go,Goiania,Casa,Jogo De Panelas,1,349.9,0.05,Pix,Cancelado,5,349.9,17.495,332.405,2024-11-01,False
+PED-100542,2024-11-22,CLI-1203,54,F,Ba,Salvador,Beleza,Kit Skincare,2,159.9,0.1,Cartao,Cancelado,4,319.8,31.980000000000004,287.82,2024-11-01,False
+PED-100265,2024-11-23,CLI-1138,62,M,Pr,Curitiba,Eletronicos,Teclado Mecanico,3,289.9,0.1,Boleto,Em Processamento,5,869.6999999999999,86.97,782.7299999999999,2024-11-01,False
+PED-100647,2024-11-24,CLI-1222,24,M,Ba,Salvador,Moda,Mochila Urbana,1,189.9,0.0,Pix,Concluido,4,189.9,0.0,189.9,2024-11-01,True
+PED-100623,2024-11-25,CLI-1114,43,M,Rs,Porto Alegre,Casa,Jogo De Panelas,1,349.9,0.1,Pix,Concluido,4,349.9,34.99,314.90999999999997,2024-11-01,True
+PED-100609,2024-11-26,CLI-1090,54,M,Mg,Belo Horizonte,Casa,Aspirador Vertical,3,599.9,0.05,Cartao,Em Processamento,5,1799.6999999999998,89.985,1709.715,2024-11-01,False
+PED-100680,2024-11-27,CLI-1087,61,F,Rj,Rio De Janeiro,Eletronicos,Teclado Mecanico,1,289.9,0.1,Cartao,Em Processamento,4,289.9,28.99,260.90999999999997,2024-11-01,False
+PED-100308,2024-11-28,CLI-1152,35,M,Go,Goiania,Eletronicos,Teclado Mecanico,1,289.9,0.0,Pix,Concluido,4,289.9,0.0,289.9,2024-11-01,True
+PED-100505,2024-11-28,CLI-1089,41,M,Pe,Recife,Beleza,Kit Skincare,1,159.9,0.1,Cartao,Em Processamento,4,159.9,15.990000000000002,143.91,2024-11-01,False
+PED-100630,2024-11-28,CLI-1043,64,M,Sc,Florianopolis,Esportes,Corda De Pular,2,59.9,0.2,Boleto,Concluido,4,119.8,23.96,95.84,2024-11-01,True
+PED-100185,2024-11-30,CLI-1023,46,F,Ba,Salvador,Moda,Jaqueta,3,319.9,0.05,Pix,Concluido,4,959.6999999999999,47.985,911.7149999999999,2024-11-01,True
+PED-100196,2024-11-30,CLI-1117,24,M,Sp,Sao Paulo,Moda,Tenis Casual,1,279.9,0.05,Cartao,Concluido,3,279.9,13.995,265.905,2024-11-01,True
+PED-100315,2024-12-01,CLI-1067,63,M,Sp,Sao Paulo,Casa,Cafeteira,3,229.9,0.05,Boleto,Em Processamento,3,689.7,34.48500000000001,655.215,2024-12-01,False
+PED-100266,2024-12-01,CLI-1159,41,M,Mg,Belo Horizonte,Eletronicos,Teclado Mecanico,1,289.9,0.1,Pix,Concluido,4,289.9,28.99,260.90999999999997,2024-12-01,True
+PED-100312,2024-12-02,CLI-1116,63,M,Sp,Sao Paulo,Eletronicos,Smartwatch,1,399.9,0.05,Pix,Concluido,3,399.9,19.995,379.905,2024-12-01,True
+PED-100403,2024-12-03,CLI-1050,32,M,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,1,289.9,0.0,Cartao,Em Processamento,3,289.9,0.0,289.9,2024-12-01,False
+PED-100604,2024-12-04,CLI-1183,41,F,Sp,Sao Paulo,Esportes,Corda De Pular,2,59.9,0.1,Cartao,Cancelado,5,119.8,11.98,107.82,2024-12-01,False
+PED-100532,2024-12-07,CLI-1067,55,F,Sc,Florianopolis,Casa,Jogo De Panelas,2,349.9,0.05,Cartao,Concluido,4,699.8,34.99,664.81,2024-12-01,True
+PED-100114,2024-12-08,CLI-1214,61,M,Go,Goiania,Eletronicos,Smartwatch,1,399.9,0.1,Pix,Em Processamento,2,399.9,39.99,359.90999999999997,2024-12-01,False
+PED-100686,2024-12-10,CLI-1078,34,F,Ce,Fortaleza,Casa,Cafeteira,2,229.9,0.15,Cartao,Concluido,4,459.8,68.97,390.83000000000004,2024-12-01,True
+PED-100072,2024-12-10,CLI-1137,44,F,Sp,Sao Paulo,Beleza,Secador,4,199.9,0.0,Cartao,Em Processamento,4,799.6,0.0,799.6,2024-12-01,False
+PED-100411,2024-12-11,CLI-1038,31,M,Ba,Salvador,Moda,Tenis Casual,1,279.9,0.1,Cartao,Cancelado,3,279.9,27.99,251.90999999999997,2024-12-01,False
+PED-100590,2024-12-12,CLI-1228,53,F,Rj,Rio De Janeiro,Esportes,Colchonete,2,99.9,0.05,Pix,Concluido,5,199.8,9.990000000000002,189.81,2024-12-01,True
+PED-100038,2024-12-13,CLI-1069,69,F,Rj,Rio De Janeiro,Eletronicos,Fone Bluetooth,2,149.9,0.0,Boleto,Em Processamento,5,299.8,0.0,299.8,2024-12-01,False
+PED-100119,2024-12-13,CLI-1014,56,F,Sc,Florianopolis,Moda,Jaqueta,3,319.9,0.0,Pix,Em Processamento,5,959.6999999999999,0.0,959.6999999999999,2024-12-01,False
+PED-100561,2024-12-14,CLI-1173,59,M,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,1,149.9,0.0,Pix,Em Processamento,3,149.9,0.0,149.9,2024-12-01,False
+PED-100539,2024-12-14,CLI-1113,31,F,Sp,Sao Paulo,Beleza,Secador,1,199.9,0.15,Cartao,Concluido,5,199.9,29.985,169.91500000000002,2024-12-01,True
+PED-100407,2024-12-14,CLI-1043,39,M,Mg,Belo Horizonte,Beleza,Perfume,1,249.9,0.05,Cartao,Concluido,4,249.9,12.495000000000001,237.405,2024-12-01,True
+PED-100700,2024-12-15,CLI-1028,44,F,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,1,289.9,0.1,Pix,Cancelado,3,289.9,28.99,260.90999999999997,2024-12-01,False
+PED-100705,2024-12-15,CLI-1227,44,F,Ba,Salvador,Moda,Mochila Urbana,1,189.9,0.1,Cartao,Concluido,4,189.9,18.990000000000002,170.91,2024-12-01,True
+PED-100298,2024-12-16,CLI-1140,43,M,Rs,Porto Alegre,Beleza,Kit Skincare,1,159.9,0.0,Pix,Concluido,4,159.9,0.0,159.9,2024-12-01,True
+PED-100372,2024-12-17,CLI-1047,21,F,Ba,Salvador,Casa,Jogo De Panelas,1,349.9,0.0,Cartao,Concluido,5,349.9,0.0,349.9,2024-12-01,True
+PED-100022,2024-12-21,CLI-1096,48,F,Rj,Florianopolis,Esportes,Corda De Pular,1,59.9,0.0,Cartao,Cancelado,5,59.9,0.0,59.9,2024-12-01,False
+PED-100462,2024-12-23,CLI-1102,44,M,Rj,Rio De Janeiro,Esportes,Garrafa Termica,1,129.9,0.0,Carteira Digital,Concluido,5,129.9,0.0,129.9,2024-12-01,True
+PED-100200,2024-12-23,CLI-1179,43,M,Rj,Rio De Janeiro,Beleza,Secador,2,199.9,0.0,Cartao,Concluido,4,399.8,0.0,399.8,2024-12-01,True
+PED-100013,2024-12-26,CLI-1035,44,M,Rj,Rio De Janeiro,Beleza,Kit Skincare,1,159.9,0.1,Boleto,Em Processamento,4,159.9,15.990000000000002,143.91,2024-12-01,False
+PED-100392,2024-12-26,CLI-1131,39,M,Sp,Sao Paulo,Moda,Mochila Urbana,2,189.9,0.1,Pix,Concluido,5,379.8,37.980000000000004,341.82,2024-12-01,True
+PED-100125,2024-12-26,CLI-1214,34,M,Sp,Sao Paulo,Casa,Aspirador Vertical,1,599.9,0.1,Cartao,Concluido,1,599.9,59.99,539.91,2024-12-01,True
+PED-100199,2024-12-27,CLI-1104,60,F,Pr,Curitiba,Casa,Cafeteira,1,229.9,0.0,Pix,Em Processamento,5,229.9,0.0,229.9,2024-12-01,False
+PED-100300,2024-12-27,CLI-1206,34,M,Mg,Belo Horizonte,Beleza,Perfume,2,249.9,0.15,Carteira Digital,Concluido,4,499.8,74.97,424.83000000000004,2024-12-01,True
+PED-100254,2024-12-28,CLI-1146,19,M,Pe,Recife,Eletronicos,Fone Bluetooth,1,149.9,0.1,Cartao,Em Processamento,1,149.9,14.990000000000002,134.91,2024-12-01,False
+PED-100488,2024-12-29,CLI-1011,19,F,Mg,Belo Horizonte,Moda,Tenis Casual,1,279.9,0.0,Boleto,Concluido,3,279.9,0.0,279.9,2024-12-01,True
+PED-100445,2025-01-01,CLI-1130,55,F,Sp,Sao Paulo,Moda,Tenis Casual,1,279.9,0.15,Cartao,Concluido,5,279.9,41.98499999999999,237.915,2025-01-01,True
+PED-100373,2025-01-01,CLI-1231,19,M,Pe,Recife,Casa,Aspirador Vertical,1,599.9,0.05,Pix,Em Processamento,4,599.9,29.995,569.905,2025-01-01,False
+PED-100719,2025-01-01,CLI-1096,39,M,Pr,Curitiba,Esportes,Colchonete,1,99.9,0.05,Cartao,Concluido,2,99.9,4.995000000000001,94.905,2025-01-01,True
+PED-100077,2025-01-02,CLI-1194,36,M,Sp,Sao Paulo,Moda,Tenis Casual,1,279.9,0.0,Cartao,Concluido,3,279.9,0.0,279.9,2025-01-01,True
+PED-100374,2025-01-02,CLI-1127,23,F,Rj,Rio De Janeiro,Eletronicos,Teclado Mecanico,1,289.9,0.0,Pix,Concluido,2,289.9,0.0,289.9,2025-01-01,True
+PED-100478,2025-01-04,CLI-1105,65,F,Rs,Porto Alegre,Moda,Mochila Urbana,3,189.9,0.1,Pix,Concluido,4,569.7,56.970000000000006,512.73,2025-01-01,True
+PED-100553,2025-01-05,CLI-1001,38,M,Rs,Porto Alegre,Esportes,Colchonete,1,99.9,0.0,Pix,Cancelado,4,99.9,0.0,99.9,2025-01-01,False
+PED-100109,2025-01-07,CLI-1077,47,M,Rs,Porto Alegre,Esportes,Corda De Pular,3,59.9,0.1,Pix,Concluido,3,179.7,17.97,161.73,2025-01-01,True
+PED-100075,2025-01-08,CLI-1052,42,M,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,2,289.9,0.05,Pix,Concluido,3,579.8,28.99,550.81,2025-01-01,True
+PED-100144,2025-01-08,CLI-1178,58,M,Sp,Sao Paulo,Casa,Aspirador Vertical,2,599.9,0.0,Pix,Cancelado,5,1199.8,0.0,1199.8,2025-01-01,False
+PED-100544,2025-01-09,CLI-1040,42,F,Mg,Belo Horizonte,Eletronicos,Smartwatch,2,399.9,0.0,Pix,Concluido,5,799.8,0.0,799.8,2025-01-01,True
+PED-100050,2025-01-09,CLI-1082,29,F,Ce,Fortaleza,Eletronicos,Fone Bluetooth,1,149.9,0.1,Pix,Em Processamento,4,149.9,14.990000000000002,134.91,2025-01-01,False
+PED-100149,2025-01-11,CLI-1190,24,M,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,3,149.9,0.05,Pix,Concluido,4,449.70000000000005,22.485000000000003,427.21500000000003,2025-01-01,True
+PED-100079,2025-01-11,CLI-1129,27,M,Sc,Florianopolis,Beleza,Perfume,1,249.9,0.15,Cartao,Concluido,4,249.9,37.485,212.41500000000002,2025-01-01,True
+PED-100328,2025-01-11,CLI-1193,40,M,Ba,Salvador,Moda,Tenis Casual,1,279.9,0.0,Cartao,Cancelado,5,279.9,0.0,279.9,2025-01-01,False
+PED-100019,2025-01-12,CLI-1055,25,F,Sp,Sao Paulo,Moda,Mochila Urbana,2,189.9,0.05,Cartao,Cancelado,4,379.8,18.990000000000002,360.81,2025-01-01,False
+PED-100419,2025-01-13,CLI-1192,42,F,Rs,Porto Alegre,Esportes,Garrafa Termica,1,129.9,0.0,Cartao,Em Processamento,4,129.9,0.0,129.9,2025-01-01,False
+PED-100090,2025-01-14,CLI-1162,48,M,Mg,Belo Horizonte,Eletronicos,Fone Bluetooth,1,149.9,0.05,Cartao,Concluido,5,149.9,7.495000000000001,142.405,2025-01-01,True
+PED-100002,2025-01-14,CLI-1064,46,M,Pe,Recife,Beleza,Secador,1,199.9,0.05,Cartao,Concluido,5,199.9,9.995000000000001,189.905,2025-01-01,True
+PED-100066,2025-01-16,CLI-1186,62,F,Sc,Florianopolis,Moda,Jaqueta,3,319.9,0.05,Boleto,Cancelado,3,959.6999999999999,47.985,911.7149999999999,2025-01-01,False
+PED-100395,2025-01-18,CLI-1187,21,M,Mg,Belo Horizonte,Casa,Cafeteira,2,229.9,0.1,Cartao,Em Processamento,4,459.8,45.980000000000004,413.82,2025-01-01,False
+PED-100286,2025-01-18,CLI-1194,42,M,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,1,289.9,0.0,Cartao,Concluido,4,289.9,0.0,289.9,2025-01-01,True
+PED-100702,2025-01-18,CLI-1081,64,F,Rj,Rio De Janeiro,Eletronicos,Teclado Mecanico,3,289.9,0.05,Cartao,Em Processamento,5,869.6999999999999,43.485,826.2149999999999,2025-01-01,False
+PED-100214,2025-01-20,CLI-1058,57,F,Rj,Rio De Janeiro,Beleza,Kit Skincare,1,159.9,0.05,Boleto,Concluido,4,159.9,7.995000000000001,151.905,2025-01-01,True
+PED-100571,2025-01-25,CLI-1010,31,M,Rj,Rio De Janeiro,Beleza,Perfume,1,249.9,0.05,Boleto,Concluido,4,249.9,12.495000000000001,237.405,2025-01-01,True
+PED-100284,2025-01-25,CLI-1007,41,M,Mg,Belo Horizonte,Moda,Mochila Urbana,2,189.9,0.1,Carteira Digital,Em Processamento,3,379.8,37.980000000000004,341.82,2025-01-01,False
+PED-100138,2025-01-25,CLI-1026,52,F,Rs,Porto Alegre,Beleza,Kit Skincare,1,159.9,0.05,Pix,Concluido,4,159.9,7.995000000000001,151.905,2025-01-01,True
+PED-100258,2025-01-27,CLI-1025,53,F,Go,Goiania,Eletronicos,Smartwatch,1,399.9,0.1,Cartao,Concluido,5,399.9,39.99,359.90999999999997,2025-01-01,True
+PED-100085,2025-01-28,CLI-1196,63,Outro,Ba,Salvador,Eletronicos,Fone Bluetooth,1,149.9,0.05,Cartao,Cancelado,3,149.9,7.495000000000001,142.405,2025-01-01,False
+PED-100475,2025-01-31,CLI-1010,44,M,Sc,Florianopolis,Casa,Aspirador Vertical,1,599.9,0.05,Boleto,Cancelado,4,599.9,29.995,569.905,2025-01-01,False
+PED-100028,2025-01-31,CLI-1220,44,M,Ce,Fortaleza,Eletronicos,Teclado Mecanico,3,289.9,0.15,Cartao,Concluido,5,869.6999999999999,130.45499999999998,739.2449999999999,2025-01-01,True
+PED-100157,2025-02-01,CLI-1067,38,F,Mg,Belo Horizonte,Moda,Jaqueta,1,319.9,0.0,Carteira Digital,Em Processamento,2,319.9,0.0,319.9,2025-02-01,False
+PED-100347,2025-02-01,CLI-1197,45,F,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,4,149.9,0.0,Cartao,Em Processamento,1,599.6,0.0,599.6,2025-02-01,False
+PED-100585,2025-02-03,CLI-1124,27,M,Ba,Salvador,Moda,Mochila Urbana,2,189.9,0.1,Pix,Cancelado,5,379.8,37.980000000000004,341.82,2025-02-01,False
+PED-100095,2025-02-03,CLI-1094,26,F,Sc,Florianopolis,Moda,Tenis Casual,1,279.9,0.1,Pix,Concluido,5,279.9,27.99,251.90999999999997,2025-02-01,True
+PED-100540,2025-02-05,CLI-1034,57,F,Sp,Sao Paulo,Esportes,Colchonete,1,99.9,0.15,Pix,Concluido,4,99.9,14.985,84.915,2025-02-01,True
+PED-100364,2025-02-06,CLI-1068,60,F,Sp,Sao Paulo,Moda,Tenis Casual,3,279.9,0.0,Cartao,Concluido,3,839.6999999999999,0.0,839.6999999999999,2025-02-01,True
+PED-100607,2025-02-06,CLI-1128,61,F,Mg,Belo Horizonte,Eletronicos,Smartwatch,1,399.9,0.1,Boleto,Em Processamento,2,399.9,39.99,359.90999999999997,2025-02-01,False
+PED-100117,2025-02-06,CLI-1212,22,F,Rs,Porto Alegre,Beleza,Secador,2,199.9,0.0,Cartao,Concluido,5,399.8,0.0,399.8,2025-02-01,True
+PED-100535,2025-02-07,CLI-1062,27,F,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,2,149.9,0.0,Cartao,Concluido,5,299.8,0.0,299.8,2025-02-01,True
+PED-100442,2025-02-08,CLI-1101,58,M,Go,Goiania,Beleza,Kit Skincare,1,159.9,0.1,Pix,Concluido,3,159.9,15.990000000000002,143.91,2025-02-01,True
+PED-100202,2025-02-09,CLI-1022,57,F,Mg,Belo Horizonte,Casa,Aspirador Vertical,3,599.9,0.1,Cartao,Em Processamento,5,1799.6999999999998,179.97,1619.7299999999998,2025-02-01,False
+PED-100541,2025-02-10,CLI-1089,69,M,Mg,Belo Horizonte,Moda,Mochila Urbana,1,189.9,0.05,Boleto,Em Processamento,4,189.9,9.495000000000001,180.405,2025-02-01,False
+PED-100356,2025-02-11,CLI-1195,58,M,Sp,Sao Paulo,Beleza,Secador,1,199.9,0.2,Cartao,Em Processamento,5,199.9,39.980000000000004,159.92000000000002,2025-02-01,False
+PED-100005,2025-02-11,CLI-1121,54,M,Sc,Florianopolis,Esportes,Corda De Pular,2,59.9,0.0,Cartao,Concluido,3,119.8,0.0,119.8,2025-02-01,True
+PED-100193,2025-02-14,CLI-1072,33,F,Pr,Curitiba,Beleza,Secador,1,199.9,0.1,Cartao,Concluido,5,199.9,19.990000000000002,179.91,2025-02-01,True
+PED-100435,2025-02-15,CLI-1068,70,M,Rj,Rio De Janeiro,Eletronicos,Fone Bluetooth,3,149.9,0.0,Pix,Concluido,3,449.70000000000005,0.0,449.70000000000005,2025-02-01,True
+PED-100176,2025-02-18,CLI-1146,35,M,Sc,Florianopolis,Casa,Jogo De Panelas,1,349.9,0.1,Pix,Cancelado,4,349.9,34.99,314.90999999999997,2025-02-01,False
+PED-100159,2025-02-19,CLI-1013,61,F,Sp,Sao Paulo,Beleza,Secador,2,199.9,0.1,Cartao,Em Processamento,5,399.8,39.980000000000004,359.82,2025-02-01,False
+PED-100207,2025-02-20,CLI-1165,49,M,Rj,Rio De Janeiro,Moda,Mochila Urbana,1,189.9,0.05,Pix,Em Processamento,4,189.9,9.495000000000001,180.405,2025-02-01,False
+PED-100595,2025-02-21,CLI-1097,42,F,Pe,Recife,Eletronicos,Teclado Mecanico,4,289.9,0.05,Boleto,Concluido,1,1159.6,57.98,1101.62,2025-02-01,True
+PED-100622,2025-02-23,CLI-1008,43,M,Rj,Rio De Janeiro,Esportes,Corda De Pular,2,59.9,0.0,Cartao,Em Processamento,4,119.8,0.0,119.8,2025-02-01,False
+PED-100444,2025-02-24,CLI-1026,64,F,Rs,Porto Alegre,Eletronicos,Smartwatch,1,399.9,0.1,Cartao,Concluido,4,399.9,39.99,359.90999999999997,2025-02-01,True
+PED-100174,2025-02-24,CLI-1089,36,M,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,1,149.9,0.1,Boleto,Em Processamento,5,149.9,14.990000000000002,134.91,2025-02-01,False
+PED-100634,2025-02-27,CLI-1221,67,M,Rj,Rio De Janeiro,Eletronicos,Teclado Mecanico,2,289.9,0.15,Cartao,Concluido,4,579.8,86.96999999999998,492.83,2025-02-01,True
+PED-100084,2025-03-01,CLI-1028,68,F,Sp,Sao Paulo,Eletronicos,Smartwatch,1,399.9,0.0,Cartao,Concluido,5,399.9,0.0,399.9,2025-03-01,True
+PED-100537,2025-03-01,CLI-1149,47,M,Pr,Curitiba,Eletronicos,Smartwatch,1,399.9,0.1,Cartao,Em Processamento,4,399.9,39.99,359.90999999999997,2025-03-01,False
+PED-100220,2025-03-02,CLI-1172,58,M,Sp,Sao Paulo,Casa,Aspirador Vertical,2,599.9,0.2,Cartao,Em Processamento,4,1199.8,239.96,959.8399999999999,2025-03-01,False
+PED-100011,2025-03-04,CLI-1001,22,F,Rs,Porto Alegre,Casa,Corda De Pular,1,59.9,0.2,Cartao,Concluido,5,59.9,11.98,47.92,2025-03-01,True
+PED-100326,2025-03-06,CLI-1076,39,M,Pe,Recife,Beleza,Perfume,1,249.9,0.0,Cartao,Concluido,3,249.9,0.0,249.9,2025-03-01,True
+PED-100040,2025-03-06,CLI-1122,37,M,Rs,Porto Alegre,Casa,Cafeteira,1,229.9,0.2,Pix,Concluido,4,229.9,45.980000000000004,183.92000000000002,2025-03-01,True
+PED-100054,2025-03-07,CLI-1050,25,M,Ce,Fortaleza,Moda,Mochila Urbana,2,189.9,0.1,Cartao,Concluido,4,379.8,37.980000000000004,341.82,2025-03-01,True
+PED-100463,2025-03-07,CLI-1150,56,M,Sp,Sao Paulo,Casa,Cafeteira,1,229.9,0.0,Pix,Cancelado,3,229.9,0.0,229.9,2025-03-01,False
+PED-100154,2025-03-08,CLI-1223,61,F,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,3,289.9,0.2,Cartao,Concluido,4,869.6999999999999,173.94,695.76,2025-03-01,True
+PED-100333,2025-03-08,CLI-1124,45,F,Pe,Recife,Esportes,Colchonete,3,99.9,0.1,Carteira Digital,Concluido,4,299.70000000000005,29.970000000000006,269.73,2025-03-01,True
+PED-100237,2025-03-09,CLI-1225,26,M,Sp,Sao Paulo,Beleza,Perfume,1,249.9,0.1,Pix,Em Processamento,5,249.9,24.990000000000002,224.91,2025-03-01,False
+PED-100116,2025-03-11,CLI-1162,69,F,Sp,Sao Paulo,Beleza,Secador,2,199.9,0.1,Pix,Em Processamento,4,399.8,39.980000000000004,359.82,2025-03-01,False
+PED-100035,2025-03-12,CLI-1039,25,F,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,1,149.9,0.0,Pix,Concluido,4,149.9,0.0,149.9,2025-03-01,True
+PED-100111,2025-03-12,CLI-1020,47,M,Mg,Belo Horizonte,Eletronicos,Teclado Mecanico,1,289.9,0.1,Cartao,Cancelado,3,289.9,28.99,260.90999999999997,2025-03-01,False
+PED-100209,2025-03-18,CLI-1015,24,M,Pr,Curitiba,Casa,Jogo De Panelas,2,349.9,0.15,Pix,Concluido,5,699.8,104.96999999999998,594.8299999999999,2025-03-01,True
+PED-100369,2025-03-22,CLI-1126,43,F,Sp,Sao Paulo,Esportes,Garrafa Termica,1,129.9,0.05,Carteira Digital,Cancelado,4,129.9,6.495000000000001,123.405,2025-03-01,False
+PED-100097,2025-03-23,CLI-1060,26,M,Rj,Rio De Janeiro,Eletronicos,Fone Bluetooth,1,149.9,0.1,Carteira Digital,Cancelado,2,149.9,14.990000000000002,134.91,2025-03-01,False
+PED-100150,2025-03-24,CLI-1189,21,F,Sp,Sao Paulo,Beleza,Secador,3,199.9,0.1,Boleto,Cancelado,3,599.7,59.970000000000006,539.73,2025-03-01,False
+PED-100275,2025-03-26,CLI-1174,50,F,Sp,Sao Paulo,Casa,Jogo De Panelas,1,349.9,0.05,Pix,Concluido,5,349.9,17.495,332.405,2025-03-01,True
+PED-100310,2025-03-27,CLI-1090,34,M,Pe,Recife,Casa,Jogo De Panelas,1,349.9,0.0,Carteira Digital,Concluido,4,349.9,0.0,349.9,2025-03-01,True
+PED-100341,2025-03-27,CLI-1226,44,Outro,Mg,Belo Horizonte,Esportes,Colchonete,1,99.9,0.1,Pix,Em Processamento,5,99.9,9.990000000000002,89.91,2025-03-01,False
+PED-100569,2025-03-31,CLI-1234,56,M,Ba,Salvador,Moda,Mochila Urbana,1,189.9,0.1,Boleto,Concluido,5,189.9,18.990000000000002,170.91,2025-03-01,True
+PED-100556,2025-03-31,CLI-1035,42,F,Mg,Belo Horizonte,Casa,Aspirador Vertical,1,599.9,0.05,Pix,Concluido,4,599.9,29.995,569.905,2025-03-01,True
+PED-100506,2025-03-31,CLI-1204,31,F,Rj,Rio De Janeiro,Casa,Cafeteira,1,229.9,0.05,Cartao,Concluido,4,229.9,11.495000000000001,218.405,2025-03-01,True
+PED-100023,2025-04-03,CLI-1079,25,M,Ba,Salvador,Esportes,Corda De Pular,2,59.9,0.2,Pix,Cancelado,4,119.8,23.96,95.84,2025-04-01,False
+PED-100133,2025-04-03,CLI-1051,52,F,Rj,Rio De Janeiro,Casa,Jogo De Panelas,2,349.9,0.1,Cartao,Concluido,3,699.8,69.98,629.8199999999999,2025-04-01,True
+PED-100555,2025-04-08,CLI-1229,64,M,Mg,Belo Horizonte,Eletronicos,Fone Bluetooth,2,149.9,0.1,Cartao,Concluido,3,299.8,29.980000000000004,269.82,2025-04-01,True
+PED-100441,2025-04-08,CLI-1185,56,F,Pr,Curitiba,Eletronicos,Fone Bluetooth,1,149.9,0.05,Cartao,Concluido,4,149.9,7.495000000000001,142.405,2025-04-01,True
+PED-100268,2025-04-09,CLI-1217,26,F,Mg,Belo Horizonte,Eletronicos,Fone Bluetooth,1,149.9,0.15,Cartao,Concluido,4,149.9,22.485,127.415,2025-04-01,True
+PED-100550,2025-04-11,CLI-1155,47,F,Mg,Belo Horizonte,Casa,Aspirador Vertical,1,599.9,0.1,Cartao,Concluido,5,599.9,59.99,539.91,2025-04-01,True
+PED-100367,2025-04-12,CLI-1055,38,F,Pr,Curitiba,Moda,Mochila Urbana,1,189.9,0.1,Pix,Em Processamento,4,189.9,18.990000000000002,170.91,2025-04-01,False
+PED-100637,2025-04-13,CLI-1159,33,F,Pr,Curitiba,Beleza,Perfume,2,249.9,0.0,Boleto,Concluido,4,499.8,0.0,499.8,2025-04-01,True
+PED-100543,2025-04-15,CLI-1049,19,F,Sp,Sao Paulo,Esportes,Garrafa Termica,1,129.9,0.05,Cartao,Concluido,2,129.9,6.495000000000001,123.405,2025-04-01,True
+PED-100509,2025-04-15,CLI-1145,48,F,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,3,149.9,0.0,Cartao,Cancelado,5,449.70000000000005,0.0,449.70000000000005,2025-04-01,False
+PED-100147,2025-04-15,CLI-1084,46,Outro,Mg,Belo Horizonte,Moda,Tenis Casual,3,279.9,0.15,Cartao,Concluido,5,839.6999999999999,125.95499999999998,713.7449999999999,2025-04-01,True
+PED-100482,2025-04-15,CLI-1207,21,M,Go,Goiania,Moda,Jaqueta,1,319.9,0.1,Carteira Digital,Cancelado,4,319.9,31.99,287.90999999999997,2025-04-01,False
+PED-100127,2025-04-17,CLI-1164,65,M,Mg,Belo Horizonte,Eletronicos,Smartwatch,2,399.9,0.0,Boleto,Concluido,5,799.8,0.0,799.8,2025-04-01,True
+PED-100261,2025-04-17,CLI-1225,23,M,Ba,Salvador,Beleza,Kit Skincare,1,159.9,0.0,Boleto,Em Processamento,3,159.9,0.0,159.9,2025-04-01,False
+PED-100337,2025-04-17,CLI-1159,60,Outro,Pr,Curitiba,Beleza,Kit Skincare,2,159.9,0.0,Cartao,Concluido,5,319.8,0.0,319.8,2025-04-01,True
+PED-100250,2025-04-18,CLI-1187,64,F,Sc,Florianopolis,Moda,Jaqueta,4,319.9,0.05,Pix,Em Processamento,4,1279.6,63.98,1215.62,2025-04-01,False
+PED-100547,2025-04-18,CLI-1029,58,M,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,2,149.9,0.15,Cartao,Em Processamento,3,299.8,44.97,254.83,2025-04-01,False
+PED-100425,2025-04-18,CLI-1136,70,F,Mg,Belo Horizonte,Beleza,Perfume,1,249.9,0.0,Cartao,Concluido,4,249.9,0.0,249.9,2025-04-01,True
+PED-100574,2025-04-19,CLI-1021,34,Outro,Pe,Recife,Beleza,Perfume,1,249.9,0.2,Pix,Concluido,4,249.9,49.980000000000004,199.92000000000002,2025-04-01,True
+PED-100512,2025-04-21,CLI-1092,22,F,Pe,Recife,Eletronicos,Fone Bluetooth,1,149.9,0.2,Pix,Cancelado,4,149.9,29.980000000000004,119.92,2025-04-01,False
+PED-100227,2025-04-22,CLI-1182,44,F,Rs,Porto Alegre,Moda,Jaqueta,1,319.9,0.1,Cartao,Cancelado,3,319.9,31.99,287.90999999999997,2025-04-01,False
+PED-100092,2025-04-22,CLI-1067,21,F,Rj,Rio De Janeiro,Casa,Jogo De Panelas,1,349.9,0.0,Cartao,Concluido,4,349.9,0.0,349.9,2025-04-01,True
+PED-100210,2025-04-22,CLI-1020,25,M,Mg,Belo Horizonte,Moda,Tenis Casual,1,279.9,0.15,Cartao,Concluido,4,279.9,41.98499999999999,237.915,2025-04-01,True
+PED-100256,2025-04-23,CLI-1136,26,F,Sp,Sao Paulo,Beleza,Perfume,4,249.9,0.15,Cartao,Concluido,3,999.6,149.94,849.6600000000001,2025-04-01,True
+PED-100370,2025-04-23,CLI-1166,40,F,Ba,Salvador,Beleza,Kit Skincare,1,159.9,0.2,Pix,Concluido,3,159.9,31.980000000000004,127.92,2025-04-01,True
+PED-100010,2025-04-24,CLI-1186,35,M,Sp,Sao Paulo,Casa,Cafeteira,1,229.9,0.0,Carteira Digital,Concluido,1,229.9,0.0,229.9,2025-04-01,True
+PED-100240,2025-04-26,CLI-1040,26,M,Mg,Belo Horizonte,Beleza,Secador,1,199.9,0.0,Pix,Cancelado,5,199.9,0.0,199.9,2025-04-01,False
+PED-100212,2025-04-27,CLI-1159,52,F,Pr,Curitiba,Eletronicos,Fone Bluetooth,1,149.9,0.15,Cartao,Cancelado,4,149.9,22.485,127.415,2025-04-01,False
+PED-100654,2025-04-27,CLI-1180,70,F,Ba,Salvador,Beleza,Kit Skincare,2,159.9,0.1,Pix,Concluido,4,319.8,31.980000000000004,287.82,2025-04-01,True
+PED-100436,2025-04-27,CLI-1035,67,F,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,1,149.9,0.1,Pix,Concluido,4,149.9,14.990000000000002,134.91,2025-04-01,True
+PED-100030,2025-04-27,CLI-1138,51,F,Sp,Sao Paulo,Beleza,Secador,1,199.9,0.1,Cartao,Cancelado,4,199.9,19.990000000000002,179.91,2025-04-01,False
+PED-100467,2025-04-29,CLI-1113,62,F,Sc,Florianopolis,Esportes,Corda De Pular,1,59.9,0.1,Pix,Concluido,3,59.9,5.99,53.91,2025-04-01,True
+PED-100613,2025-04-29,CLI-1196,40,M,Sc,Florianopolis,Esportes,Garrafa Termica,1,129.9,0.1,Cartao,Concluido,4,129.9,12.990000000000002,116.91,2025-04-01,True
+PED-100378,2025-05-02,CLI-1149,22,M,Pe,Recife,Casa,Cafeteira,1,229.9,0.1,Pix,Concluido,4,229.9,22.990000000000002,206.91,2025-05-01,True
+PED-100233,2025-05-02,CLI-1176,52,F,Sp,Sao Paulo,Moda,Jaqueta,1,319.9,0.1,Cartao,Concluido,5,319.9,31.99,287.90999999999997,2025-05-01,True
+PED-100696,2025-05-03,CLI-1209,58,M,Rs,Porto Alegre,Beleza,Perfume,1,249.9,0.1,Cartao,Concluido,4,249.9,24.990000000000002,224.91,2025-05-01,True
+PED-100474,2025-05-06,CLI-1237,23,F,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,3,149.9,0.05,Cartao,Concluido,1,449.70000000000005,22.485000000000003,427.21500000000003,2025-05-01,True
+PED-100219,2025-05-06,CLI-1177,27,M,Rj,Rio De Janeiro,Casa,Cafeteira,1,229.9,0.0,Cartao,Concluido,3,229.9,0.0,229.9,2025-05-01,True
+PED-100307,2025-05-07,CLI-1181,44,F,Rj,Rio De Janeiro,Moda,Mochila Urbana,4,189.9,0.15,Carteira Digital,Concluido,5,759.6,113.94,645.6600000000001,2025-05-01,True
+PED-100365,2025-05-08,CLI-1224,19,M,Pr,Curitiba,Casa,Cafeteira,1,229.9,0.05,Cartao,Concluido,5,229.9,11.495000000000001,218.405,2025-05-01,True
+PED-100412,2025-05-08,CLI-1109,55,M,Rs,Porto Alegre,Eletronicos,Smartwatch,3,399.9,0.1,Cartao,Em Processamento,4,1199.6999999999998,119.96999999999998,1079.7299999999998,2025-05-01,False
+PED-100191,2025-05-08,CLI-1102,63,M,Rj,Rio De Janeiro,Eletronicos,Teclado Mecanico,2,289.9,0.2,Cartao,Concluido,5,579.8,115.96,463.84,2025-05-01,True
+PED-100473,2025-05-08,CLI-1165,24,F,Rj,Rio De Janeiro,Eletronicos,Teclado Mecanico,2,289.9,0.05,Cartao,Em Processamento,3,579.8,28.99,550.81,2025-05-01,False
+PED-100530,2025-05-08,CLI-1134,48,F,Rj,Rio De Janeiro,Moda,Jaqueta,2,319.9,0.1,Pix,Cancelado,2,639.8,63.98,575.8199999999999,2025-05-01,False
+PED-100143,2025-05-10,CLI-1147,36,M,Rs,Porto Alegre,Moda,Mochila Urbana,1,189.9,0.1,Cartao,Em Processamento,5,189.9,18.990000000000002,170.91,2025-05-01,False
+PED-100655,2025-05-10,CLI-1199,44,M,Sc,Florianopolis,Casa,Jogo De Panelas,1,349.9,0.1,Cartao,Concluido,4,349.9,34.99,314.90999999999997,2025-05-01,True
+PED-100466,2025-05-10,CLI-1136,50,F,Sp,Sao Paulo,Moda,Tenis Casual,2,279.9,0.1,Cartao,Concluido,5,559.8,55.98,503.81999999999994,2025-05-01,True
+PED-100217,2025-05-12,CLI-1106,66,F,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,1,289.9,0.05,Cartao,Concluido,4,289.9,14.495,275.405,2025-05-01,True
+PED-100611,2025-05-12,CLI-1161,45,F,Go,Goiania,Moda,Tenis Casual,4,279.9,0.0,Cartao,Cancelado,3,1119.6,0.0,1119.6,2025-05-01,False
+PED-100465,2025-05-12,CLI-1100,47,F,Mg,Belo Horizonte,Moda,Tenis Casual,1,279.9,0.1,Boleto,Em Processamento,3,279.9,27.99,251.90999999999997,2025-05-01,False
+PED-100105,2025-05-12,CLI-1075,67,Outro,Ba,Salvador,Beleza,Perfume,1,249.9,0.0,Cartao,Cancelado,4,249.9,0.0,249.9,2025-05-01,False
+PED-100360,2025-05-13,CLI-1159,51,F,Sp,Sao Paulo,Esportes,Corda De Pular,1,59.9,0.15,Boleto,Em Processamento,4,59.9,8.985,50.915,2025-05-01,False
+PED-100391,2025-05-14,CLI-1157,18,M,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,1,289.9,0.1,Cartao,Concluido,5,289.9,28.99,260.90999999999997,2025-05-01,True
+PED-100408,2025-05-14,CLI-1066,44,M,Go,Goiania,Eletronicos,Smartwatch,1,399.9,0.0,Boleto,Concluido,5,399.9,0.0,399.9,2025-05-01,True
+PED-100645,2025-05-15,CLI-1084,50,M,Sp,Sao Paulo,Beleza,Perfume,1,249.9,0.05,Cartao,Concluido,4,249.9,12.495000000000001,237.405,2025-05-01,True
+PED-100197,2025-05-15,CLI-1006,38,M,Sp,Sao Paulo,Esportes,Colchonete,1,99.9,0.1,Pix,Em Processamento,4,99.9,9.990000000000002,89.91,2025-05-01,False
+PED-100626,2025-05-16,CLI-1069,55,F,Sp,Sao Paulo,Beleza,Secador,1,199.9,0.05,Cartao,Concluido,4,199.9,9.995000000000001,189.905,2025-05-01,True
+PED-100580,2025-05-19,CLI-1123,32,F,Sp,Sao Paulo,Casa,Cafeteira,2,229.9,0.05,Boleto,Concluido,5,459.8,22.990000000000002,436.81,2025-05-01,True
+PED-100016,2025-05-20,CLI-1147,28,F,Sp,Sao Paulo,Moda,Jaqueta,2,319.9,0.2,Carteira Digital,Em Processamento,5,639.8,127.96,511.84,2025-05-01,False
+PED-100597,2025-05-20,CLI-1033,68,M,Mg,Belo Horizonte,Moda,Tenis Casual,1,279.9,0.15,Boleto,Concluido,2,279.9,41.98499999999999,237.915,2025-05-01,True
+PED-100643,2025-05-21,CLI-1209,36,M,Pr,Curitiba,Eletronicos,Teclado Mecanico,1,289.9,0.05,Cartao,Concluido,4,289.9,14.495,275.405,2025-05-01,True
+PED-100009,2025-05-23,CLI-1225,36,M,Mg,Belo Horizonte,Casa,Cafeteira,1,229.9,0.0,Cartao,Em Processamento,2,229.9,0.0,229.9,2025-05-01,False
+PED-100021,2025-05-26,CLI-1158,68,F,Rj,Rio De Janeiro,Casa,Cafeteira,1,229.9,0.15,Cartao,Cancelado,4,229.9,34.485,195.41500000000002,2025-05-01,False
+PED-100514,2025-05-26,CLI-1035,35,F,Ba,Salvador,Casa,Jogo De Panelas,1,349.9,0.1,Cartao,Concluido,3,349.9,34.99,314.90999999999997,2025-05-01,True
+PED-100661,2025-05-28,CLI-1128,22,F,Sp,Sao Paulo,Esportes,Garrafa Termica,2,129.9,0.05,Pix,Concluido,5,259.8,12.990000000000002,246.81,2025-05-01,True
+PED-100381,2025-05-28,CLI-1054,31,F,Pr,Curitiba,Esportes,Garrafa Termica,4,129.9,0.1,Pix,Em Processamento,2,519.6,51.96000000000001,467.64,2025-05-01,False
+PED-100424,2025-05-29,CLI-1211,33,F,Ba,Salvador,Moda,Jaqueta,3,319.9,0.1,Cartao,Concluido,4,959.6999999999999,95.97,863.7299999999999,2025-05-01,True
+PED-100573,2025-05-29,CLI-1237,63,F,Sp,Sao Paulo,Beleza,Secador,1,199.9,0.0,Cartao,Concluido,4,199.9,0.0,199.9,2025-05-01,True
+PED-100451,2025-05-29,CLI-1131,60,F,Sp,Sao Paulo,Esportes,Corda De Pular,2,59.9,0.0,Cartao,Cancelado,4,119.8,0.0,119.8,2025-05-01,False
+PED-100223,2025-05-30,CLI-1183,52,M,Rj,Rio De Janeiro,Esportes,Colchonete,1,99.9,0.1,Cartao,Concluido,2,99.9,9.990000000000002,89.91,2025-05-01,True
+PED-100397,2025-05-30,CLI-1100,41,F,Ce,Fortaleza,Casa,Cafeteira,1,229.9,0.05,Cartao,Concluido,5,229.9,11.495000000000001,218.405,2025-05-01,True
+PED-100025,2025-06-03,CLI-1148,45,F,Sc,Florianopolis,Eletronicos,Fone Bluetooth,1,149.9,0.1,Cartao,Cancelado,4,149.9,14.990000000000002,134.91,2025-06-01,False
+PED-100271,2025-06-04,CLI-1234,35,M,Ba,Salvador,Eletronicos,Smartwatch,1,399.9,0.1,Cartao,Em Processamento,4,399.9,39.99,359.90999999999997,2025-06-01,False
+PED-100129,2025-06-06,CLI-1058,60,F,Mg,Belo Horizonte,Moda,Jaqueta,1,319.9,0.1,Cartao,Concluido,4,319.9,31.99,287.90999999999997,2025-06-01,True
+PED-100043,2025-06-07,CLI-1067,41,M,Sp,Sao Paulo,Casa,Cafeteira,3,229.9,0.1,Cartao,Concluido,3,689.7,68.97000000000001,620.73,2025-06-01,True
+PED-100521,2025-06-08,CLI-1113,27,F,Sp,Sao Paulo,Casa,Jogo De Panelas,1,349.9,0.15,Pix,Concluido,5,349.9,52.48499999999999,297.41499999999996,2025-06-01,True
+PED-100665,2025-06-08,CLI-1123,21,M,Rs,Porto Alegre,Beleza,Kit Skincare,2,159.9,0.05,Pix,Em Processamento,3,319.8,15.990000000000002,303.81,2025-06-01,False
+PED-100082,2025-06-10,CLI-1172,32,M,Ba,Salvador,Beleza,Kit Skincare,1,159.9,0.0,Cartao,Cancelado,5,159.9,0.0,159.9,2025-06-01,False
+PED-100531,2025-06-11,CLI-1078,64,M,Sc,Florianopolis,Moda,Jaqueta,1,319.9,0.0,Cartao,Cancelado,4,319.9,0.0,319.9,2025-06-01,False
+PED-100058,2025-06-12,CLI-1035,42,M,Sp,Sao Paulo,Eletronicos,Smartwatch,1,399.9,0.0,Boleto,Em Processamento,4,399.9,0.0,399.9,2025-06-01,False
+PED-100358,2025-06-13,CLI-1026,27,M,Pe,Recife,Casa,Aspirador Vertical,1,599.9,0.05,Boleto,Em Processamento,5,599.9,29.995,569.905,2025-06-01,False
+PED-100420,2025-06-13,CLI-1225,64,M,Rs,Porto Alegre,Moda,Jaqueta,1,319.9,0.15,Cartao,Em Processamento,4,319.9,47.98499999999999,271.91499999999996,2025-06-01,False
+PED-100402,2025-06-14,CLI-1066,51,F,Pr,Curitiba,Beleza,Secador,3,199.9,0.0,Pix,Em Processamento,5,599.7,0.0,599.7,2025-06-01,False
+PED-100061,2025-06-14,CLI-1026,69,M,Sc,Florianopolis,Casa,Cafeteira,4,229.9,0.0,Pix,Concluido,5,919.6,0.0,919.6,2025-06-01,True
+PED-100690,2025-06-15,CLI-1052,28,M,Pr,Curitiba,Eletronicos,Teclado Mecanico,3,289.9,0.1,Boleto,Em Processamento,5,869.6999999999999,86.97,782.7299999999999,2025-06-01,False
+PED-100001,2025-06-16,CLI-1069,34,F,Go,Goiania,Casa,Aspirador Vertical,2,599.9,0.0,Pix,Concluido,5,1199.8,0.0,1199.8,2025-06-01,True
+PED-100684,2025-06-16,CLI-1197,27,Outro,Sp,Sao Paulo,Moda,Jaqueta,2,319.9,0.2,Cartao,Concluido,3,639.8,127.96,511.84,2025-06-01,True
+PED-100225,2025-06-17,CLI-1239,40,F,Pe,Recife,Esportes,Colchonete,1,99.9,0.1,Cartao,Em Processamento,5,99.9,9.990000000000002,89.91,2025-06-01,False
+PED-100687,2025-06-17,CLI-1146,36,F,Sp,Sao Paulo,Esportes,Colchonete,2,99.9,0.05,Pix,Concluido,3,199.8,9.990000000000002,189.81,2025-06-01,True
+PED-100059,2025-06-17,CLI-1046,70,M,Rs,Porto Alegre,Eletronicos,Teclado Mecanico,1,289.9,0.0,Cartao,Concluido,3,289.9,0.0,289.9,2025-06-01,True
+PED-100490,2025-06-17,CLI-1214,66,M,Mg,Belo Horizonte,Moda,Tenis Casual,4,279.9,0.15,Boleto,Concluido,5,1119.6,167.93999999999997,951.66,2025-06-01,True
+PED-100345,2025-06-20,CLI-1164,40,F,Mg,Belo Horizonte,Beleza,Kit Skincare,3,159.9,0.1,Pix,Em Processamento,3,479.70000000000005,47.970000000000006,431.73,2025-06-01,False
+PED-100203,2025-06-20,CLI-1059,55,F,Rs,Porto Alegre,Eletronicos,Smartwatch,2,399.9,0.1,Cartao,Em Processamento,5,799.8,79.98,719.8199999999999,2025-06-01,False
+PED-100354,2025-06-20,CLI-1149,22,F,Sp,Sao Paulo,Casa,Aspirador Vertical,2,599.9,0.0,Cartao,Concluido,4,1199.8,0.0,1199.8,2025-06-01,True
+PED-100672,2025-06-22,CLI-1108,44,F,Go,Goiania,Esportes,Garrafa Termica,2,129.9,0.05,Pix,Concluido,4,259.8,12.990000000000002,246.81,2025-06-01,True
+PED-100024,2025-06-26,CLI-1125,70,F,Sp,Sao Paulo,Beleza,Secador,2,199.9,0.05,Pix,Concluido,4,399.8,19.990000000000002,379.81,2025-06-01,True
+PED-100130,2025-06-26,CLI-1061,31,F,Sc,Florianopolis,Eletronicos,Fone Bluetooth,2,149.9,0.0,Pix,Cancelado,5,299.8,0.0,299.8,2025-06-01,False
+PED-100471,2025-06-28,CLI-1106,45,M,Mg,Belo Horizonte,Casa,Jogo De Panelas,2,349.9,0.0,Cartao,Cancelado,3,699.8,0.0,699.8,2025-06-01,False
+PED-100034,2025-06-28,CLI-1085,52,M,Ce,Fortaleza,Casa,Jogo De Panelas,1,349.9,0.05,Cartao,Concluido,5,349.9,17.495,332.405,2025-06-01,True
+PED-100291,2025-06-29,CLI-1173,23,M,Pe,Recife,Eletronicos,Teclado Mecanico,3,289.9,0.1,Cartao,Em Processamento,4,869.6999999999999,86.97,782.7299999999999,2025-06-01,False
+PED-100108,2025-06-29,CLI-1183,40,F,Sp,Sao Paulo,Eletronicos,Smartwatch,2,399.9,0.0,Cartao,Concluido,4,799.8,0.0,799.8,2025-06-01,True
+PED-100416,2025-06-29,CLI-1149,39,M,Ba,Salvador,Eletronicos,Smartwatch,1,399.9,0.1,Cartao,Concluido,4,399.9,39.99,359.90999999999997,2025-06-01,True
+PED-100515,2025-06-29,CLI-1106,21,F,Rs,Porto Alegre,Eletronicos,Smartwatch,1,399.9,0.15,Boleto,Concluido,5,399.9,59.98499999999999,339.91499999999996,2025-06-01,True
+PED-100173,2025-06-29,CLI-1084,30,M,Pr,Curitiba,Esportes,Garrafa Termica,1,129.9,0.1,Cartao,Cancelado,4,129.9,12.990000000000002,116.91,2025-06-01,False
+PED-100601,2025-07-02,CLI-1035,68,F,Ba,Salvador,Beleza,Secador,2,199.9,0.1,Cartao,Concluido,4,399.8,39.980000000000004,359.82,2025-07-01,True
+PED-100325,2025-07-03,CLI-1022,65,M,Rj,Rio De Janeiro,Moda,Jaqueta,1,319.9,0.05,Pix,Concluido,4,319.9,15.995,303.905,2025-07-01,True
+PED-100549,2025-07-04,CLI-1240,21,F,Mg,Belo Horizonte,Casa,Jogo De Panelas,1,349.9,0.1,Cartao,Em Processamento,3,349.9,34.99,314.90999999999997,2025-07-01,False
+PED-100438,2025-07-05,CLI-1193,54,M,Sp,Sao Paulo,Beleza,Secador,1,199.9,0.0,Boleto,Concluido,1,199.9,0.0,199.9,2025-07-01,True
+PED-100322,2025-07-06,CLI-1115,47,F,Pe,Recife,Casa,Cafeteira,1,229.9,0.15,Cartao,Concluido,4,229.9,34.485,195.41500000000002,2025-07-01,True
+PED-100027,2025-07-06,CLI-1214,28,M,Mg,Belo Horizonte,Eletronicos,Smartwatch,1,399.9,0.0,Pix,Concluido,5,399.9,0.0,399.9,2025-07-01,True
+PED-100123,2025-07-06,CLI-1219,28,F,Rs,Porto Alegre,Casa,Jogo De Panelas,1,349.9,0.1,Cartao,Em Processamento,3,349.9,34.99,314.90999999999997,2025-07-01,False
+PED-100100,2025-07-07,CLI-1184,33,F,Sc,Florianopolis,Esportes,Colchonete,2,99.9,0.1,Carteira Digital,Concluido,4,199.8,19.980000000000004,179.82,2025-07-01,True
+PED-100088,2025-07-09,CLI-1106,33,F,Ba,Salvador,Eletronicos,Fone Bluetooth,3,149.9,0.1,Cartao,Cancelado,4,449.70000000000005,44.970000000000006,404.73,2025-07-01,False
+PED-100670,2025-07-09,CLI-1017,39,F,Rs,Porto Alegre,Eletronicos,Fone Bluetooth,1,149.9,0.15,Pix,Concluido,3,149.9,22.485,127.415,2025-07-01,True
+PED-100342,2025-07-11,CLI-1089,59,F,Mg,Belo Horizonte,Beleza,Kit Skincare,2,159.9,0.1,Boleto,Concluido,3,319.8,31.980000000000004,287.82,2025-07-01,True
+PED-100709,2025-07-12,CLI-1017,18,Outro,Sp,Sao Paulo,Casa,Jogo De Panelas,2,349.9,0.0,Cartao,Concluido,4,699.8,0.0,699.8,2025-07-01,True
+PED-100281,2025-07-13,CLI-1051,33,F,Rj,Rio De Janeiro,Eletronicos,Teclado Mecanico,1,289.9,0.2,Pix,Em Processamento,3,289.9,57.98,231.92,2025-07-01,False
+PED-100283,2025-07-13,CLI-1046,52,M,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,1,289.9,0.1,Pix,Concluido,4,289.9,28.99,260.90999999999997,2025-07-01,True
+PED-100418,2025-07-16,CLI-1062,51,F,Rj,Rio De Janeiro,Eletronicos,Smartwatch,3,399.9,0.05,Carteira Digital,Concluido,4,1199.6999999999998,59.98499999999999,1139.715,2025-07-01,True
+PED-100476,2025-07-16,CLI-1183,53,F,Pe,Recife,Casa,Cafeteira,1,229.9,0.1,Cartao,Concluido,1,229.9,22.990000000000002,206.91,2025-07-01,True
+PED-100304,2025-07-17,CLI-1182,65,F,Pe,Recife,Beleza,Kit Skincare,2,159.9,0.0,Pix,Concluido,4,319.8,0.0,319.8,2025-07-01,True
+PED-100366,2025-07-17,CLI-1101,20,Outro,Go,Goiania,Beleza,Kit Skincare,3,159.9,0.05,Pix,Cancelado,3,479.70000000000005,23.985000000000003,455.71500000000003,2025-07-01,False
+PED-100309,2025-07-18,CLI-1112,58,M,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,1,289.9,0.0,Pix,Concluido,5,289.9,0.0,289.9,2025-07-01,True
+PED-100683,2025-07-19,CLI-1045,55,F,Sp,Sao Paulo,Casa,Aspirador Vertical,1,599.9,0.0,Cartao,Concluido,4,599.9,0.0,599.9,2025-07-01,True
+PED-100350,2025-07-19,CLI-1086,36,M,Pe,Recife,Moda,Mochila Urbana,2,189.9,0.05,Pix,Concluido,4,379.8,18.990000000000002,360.81,2025-07-01,True
+PED-100113,2025-07-19,CLI-1039,31,F,Ce,Fortaleza,Moda,Mochila Urbana,1,189.9,0.05,Pix,Cancelado,3,189.9,9.495000000000001,180.405,2025-07-01,False
+PED-100673,2025-07-20,CLI-1083,41,M,Ba,Salvador,Moda,Jaqueta,1,319.9,0.05,Cartao,Cancelado,5,319.9,15.995,303.905,2025-07-01,False
+PED-100136,2025-07-20,CLI-1233,49,F,Rj,Rio De Janeiro,Esportes,Colchonete,1,99.9,0.15,Carteira Digital,Concluido,5,99.9,14.985,84.915,2025-07-01,True
+PED-100278,2025-07-21,CLI-1191,45,M,Rs,Porto Alegre,Esportes,Colchonete,1,99.9,0.15,Carteira Digital,Cancelado,3,99.9,14.985,84.915,2025-07-01,False
+PED-100067,2025-07-21,CLI-1100,35,F,Ba,Salvador,Casa,Aspirador Vertical,1,599.9,0.1,Cartao,Em Processamento,3,599.9,59.99,539.91,2025-07-01,False
+PED-100704,2025-07-21,CLI-1152,30,F,Sp,Sao Paulo,Eletronicos,Smartwatch,1,399.9,0.15,Pix,Concluido,5,399.9,59.98499999999999,339.91499999999996,2025-07-01,True
+PED-100104,2025-07-22,CLI-1219,28,M,Sp,Sao Paulo,Beleza,Kit Skincare,2,159.9,0.0,Pix,Cancelado,4,319.8,0.0,319.8,2025-07-01,False
+PED-100327,2025-07-22,CLI-1060,38,F,Sp,Sao Paulo,Moda,Mochila Urbana,1,189.9,0.0,Pix,Concluido,2,189.9,0.0,189.9,2025-07-01,True
+PED-100107,2025-07-23,CLI-1049,20,F,Ce,Fortaleza,Eletronicos,Teclado Mecanico,1,289.9,0.05,Pix,Em Processamento,5,289.9,14.495,275.405,2025-07-01,False
+PED-100039,2025-07-24,CLI-1232,52,M,Go,Goiania,Moda,Mochila Urbana,2,189.9,0.1,Cartao,Concluido,3,379.8,37.980000000000004,341.82,2025-07-01,True
+PED-100311,2025-07-29,CLI-1083,32,F,Ba,Salvador,Casa,Jogo De Panelas,1,349.9,0.0,Cartao,Concluido,5,349.9,0.0,349.9,2025-07-01,True
+PED-100663,2025-07-30,CLI-1141,21,Outro,Pe,Recife,Eletronicos,Fone Bluetooth,2,149.9,0.0,Cartao,Concluido,3,299.8,0.0,299.8,2025-07-01,True
+PED-100468,2025-07-31,CLI-1069,65,F,Rj,Rio De Janeiro,Eletronicos,Fone Bluetooth,2,149.9,0.1,Cartao,Concluido,4,299.8,29.980000000000004,269.82,2025-07-01,True
+PED-100270,2025-07-31,CLI-1176,28,M,Sc,Florianopolis,Eletronicos,Smartwatch,3,399.9,0.0,Boleto,Em Processamento,5,1199.6999999999998,0.0,1199.6999999999998,2025-07-01,False
+PED-100615,2025-08-01,CLI-1212,61,F,Pr,Curitiba,Beleza,Perfume,1,249.9,0.1,Carteira Digital,Concluido,4,249.9,24.990000000000002,224.91,2025-08-01,True
+PED-100691,2025-08-03,CLI-1212,24,F,Sc,Florianopolis,Esportes,Garrafa Termica,1,129.9,0.0,Cartao,Concluido,5,129.9,0.0,129.9,2025-08-01,True
+PED-100317,2025-08-03,CLI-1223,34,M,Go,Goiania,Moda,Mochila Urbana,1,189.9,0.0,Cartao,Cancelado,5,189.9,0.0,189.9,2025-08-01,False
+PED-100106,2025-08-06,CLI-1130,47,F,Mg,Belo Horizonte,Casa,Jogo De Panelas,1,349.9,0.0,Boleto,Concluido,5,349.9,0.0,349.9,2025-08-01,True
+PED-100169,2025-08-08,CLI-1045,43,M,Pe,Recife,Esportes,Corda De Pular,1,59.9,0.0,Cartao,Concluido,5,59.9,0.0,59.9,2025-08-01,True
+PED-100608,2025-08-09,CLI-1026,67,F,Pr,Curitiba,Beleza,Secador,1,199.9,0.0,Carteira Digital,Em Processamento,5,199.9,0.0,199.9,2025-08-01,False
+PED-100177,2025-08-11,CLI-1148,37,M,Ba,Salvador,Esportes,Colchonete,3,99.9,0.0,Pix,Cancelado,3,299.70000000000005,0.0,299.70000000000005,2025-08-01,False
+PED-100167,2025-08-11,CLI-1117,67,M,Sp,Sao Paulo,Beleza,Perfume,2,249.9,0.1,Pix,Cancelado,4,499.8,49.980000000000004,449.82,2025-08-01,False
+PED-100638,2025-08-15,CLI-1186,49,M,Rs,Porto Alegre,Beleza,Kit Skincare,1,159.9,0.05,Pix,Cancelado,4,159.9,7.995000000000001,151.905,2025-08-01,False
+PED-100533,2025-08-15,CLI-1136,49,F,Rj,Rio De Janeiro,Moda,Mochila Urbana,1,189.9,0.0,Cartao,Cancelado,5,189.9,0.0,189.9,2025-08-01,False
+PED-100432,2025-08-17,CLI-1238,36,M,Pr,Curitiba,Moda,Mochila Urbana,1,189.9,0.05,Pix,Cancelado,5,189.9,9.495000000000001,180.405,2025-08-01,False
+PED-100717,2025-08-17,CLI-1026,63,M,Rj,Rio De Janeiro,Eletronicos,Smartwatch,1,399.9,0.15,Pix,Concluido,4,399.9,59.98499999999999,339.91499999999996,2025-08-01,True
+PED-100458,2025-08-23,CLI-1153,68,F,Ba,Salvador,Beleza,Secador,1,199.9,0.0,Cartao,Em Processamento,5,199.9,0.0,199.9,2025-08-01,False
+PED-100627,2025-08-23,CLI-1093,63,M,Mg,Belo Horizonte,Eletronicos,Teclado Mecanico,2,289.9,0.1,Cartao,Em Processamento,4,579.8,57.98,521.8199999999999,2025-08-01,False
+PED-100224,2025-08-25,CLI-1230,49,M,Ba,Salvador,Eletronicos,Smartwatch,1,399.9,0.1,Pix,Em Processamento,5,399.9,39.99,359.90999999999997,2025-08-01,False
+PED-100081,2025-08-25,CLI-1067,55,M,Rs,Porto Alegre,Casa,Jogo De Panelas,2,349.9,0.2,Pix,Cancelado,4,699.8,139.96,559.8399999999999,2025-08-01,False
+PED-100449,2025-08-26,CLI-1174,66,M,Rj,Rio De Janeiro,Moda,Mochila Urbana,1,189.9,0.0,Cartao,Concluido,3,189.9,0.0,189.9,2025-08-01,True
+PED-100262,2025-08-28,CLI-1051,57,M,Mg,Belo Horizonte,Casa,Jogo De Panelas,1,349.9,0.2,Pix,Concluido,1,349.9,69.98,279.91999999999996,2025-08-01,True
+PED-100178,2025-08-28,CLI-1085,22,F,Pr,Curitiba,Esportes,Corda De Pular,2,59.9,0.0,Cartao,Concluido,5,119.8,0.0,119.8,2025-08-01,True
+PED-100170,2025-08-30,CLI-1183,45,F,Sp,Sao Paulo,Casa,Jogo De Panelas,1,349.9,0.15,Pix,Concluido,4,349.9,52.48499999999999,297.41499999999996,2025-08-01,True
+PED-100004,2025-08-31,CLI-1002,24,M,Ce,Fortaleza,Eletronicos,Fone Bluetooth,2,149.9,0.05,Pix,Em Processamento,4,299.8,14.990000000000002,284.81,2025-08-01,False
+PED-100461,2025-09-01,CLI-1115,22,F,Sp,Sao Paulo,Eletronicos,Smartwatch,4,399.9,0.1,Cartao,Concluido,1,1599.6,159.96,1439.6399999999999,2025-09-01,True
+PED-100361,2025-09-05,CLI-1021,38,M,Sp,Sao Paulo,Eletronicos,Smartwatch,1,399.9,0.1,Cartao,Cancelado,4,399.9,39.99,359.90999999999997,2025-09-01,False
+PED-100074,2025-09-07,CLI-1018,62,M,Pr,Curitiba,Eletronicos,Fone Bluetooth,3,149.9,0.05,Cartao,Concluido,4,449.70000000000005,22.485000000000003,427.21500000000003,2025-09-01,True
+PED-100206,2025-09-07,CLI-1237,41,F,Mg,Belo Horizonte,Eletronicos,Smartwatch,1,399.9,0.0,Cartao,Concluido,3,399.9,0.0,399.9,2025-09-01,True
+PED-100715,2025-09-07,CLI-1228,59,F,Rj,Rio De Janeiro,Eletronicos,Smartwatch,2,399.9,0.2,Pix,Concluido,4,799.8,159.96,639.8399999999999,2025-09-01,True
+PED-100455,2025-09-07,CLI-1079,25,F,Mg,Belo Horizonte,Eletronicos,Teclado Mecanico,1,289.9,0.05,Carteira Digital,Concluido,3,289.9,14.495,275.405,2025-09-01,True
+PED-100606,2025-09-09,CLI-1057,45,F,Mg,Belo Horizonte,Esportes,Colchonete,1,99.9,0.1,Carteira Digital,Em Processamento,4,99.9,9.990000000000002,89.91,2025-09-01,False
+PED-100103,2025-09-11,CLI-1051,27,M,Sp,Sao Paulo,Esportes,Colchonete,1,99.9,0.1,Boleto,Concluido,3,99.9,9.990000000000002,89.91,2025-09-01,True
+PED-100454,2025-09-12,CLI-1032,66,F,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,4,149.9,0.05,Boleto,Cancelado,3,599.6,29.980000000000004,569.62,2025-09-01,False
+PED-100558,2025-09-12,CLI-1196,51,F,Sp,Sao Paulo,Moda,Tenis Casual,4,279.9,0.0,Cartao,Cancelado,3,1119.6,0.0,1119.6,2025-09-01,False
+PED-100603,2025-09-12,CLI-1195,65,F,Rj,Rio De Janeiro,Beleza,Secador,3,199.9,0.1,Cartao,Cancelado,3,599.7,59.970000000000006,539.73,2025-09-01,False
+PED-100470,2025-09-13,CLI-1019,70,M,Sp,Sao Paulo,Casa,Cafeteira,2,229.9,0.0,Pix,Concluido,3,459.8,0.0,459.8,2025-09-01,True
+PED-100352,2025-09-13,CLI-1120,24,F,Sp,Sao Paulo,Moda,Mochila Urbana,2,189.9,0.05,Carteira Digital,Em Processamento,5,379.8,18.990000000000002,360.81,2025-09-01,False
+PED-100288,2025-09-13,CLI-1004,34,F,Sp,Sao Paulo,Moda,Mochila Urbana,2,189.9,0.0,Boleto,Concluido,4,379.8,0.0,379.8,2025-09-01,True
+PED-100485,2025-09-14,CLI-1157,23,M,Mg,Belo Horizonte,Casa,Cafeteira,1,229.9,0.05,Cartao,Concluido,4,229.9,11.495000000000001,218.405,2025-09-01,True
+PED-100577,2025-09-15,CLI-1223,28,F,Ba,Salvador,Moda,Jaqueta,2,319.9,0.15,Pix,Concluido,4,639.8,95.96999999999998,543.8299999999999,2025-09-01,True
+PED-100692,2025-09-16,CLI-1078,38,M,Rs,Porto Alegre,Eletronicos,Smartwatch,1,399.9,0.0,Cartao,Em Processamento,5,399.9,0.0,399.9,2025-09-01,False
+PED-100302,2025-09-17,CLI-1179,50,F,Pr,Curitiba,Moda,Mochila Urbana,2,189.9,0.05,Cartao,Concluido,3,379.8,18.990000000000002,360.81,2025-09-01,True
+PED-100518,2025-09-18,CLI-1105,31,F,Ba,Salvador,Eletronicos,Smartwatch,1,399.9,0.1,Cartao,Concluido,5,399.9,39.99,359.90999999999997,2025-09-01,True
+PED-100682,2025-09-18,CLI-1223,31,M,Sp,Sao Paulo,Eletronicos,Smartwatch,1,399.9,0.15,Cartao,Cancelado,4,399.9,59.98499999999999,339.91499999999996,2025-09-01,False
+PED-100651,2025-09-18,CLI-1135,26,M,Sp,Sao Paulo,Esportes,Corda De Pular,2,59.9,0.0,Boleto,Concluido,3,119.8,0.0,119.8,2025-09-01,True
+PED-100371,2025-09-18,CLI-1223,31,M,Pr,Curitiba,Eletronicos,Smartwatch,1,399.9,0.05,Cartao,Concluido,4,399.9,19.995,379.905,2025-09-01,True
+PED-100017,2025-09-19,CLI-1048,40,F,Ba,Salvador,Eletronicos,Smartwatch,1,399.9,0.0,Cartao,Em Processamento,4,399.9,0.0,399.9,2025-09-01,False
+PED-100329,2025-09-20,CLI-1015,70,F,Rs,Porto Alegre,Eletronicos,Fone Bluetooth,1,149.9,0.0,Pix,Concluido,4,149.9,0.0,149.9,2025-09-01,True
+PED-100319,2025-09-20,CLI-1040,43,F,Mg,Belo Horizonte,Esportes,Colchonete,1,99.9,0.15,Carteira Digital,Concluido,5,99.9,14.985,84.915,2025-09-01,True
+PED-100417,2025-09-21,CLI-1225,46,F,Rs,Porto Alegre,Beleza,Perfume,3,249.9,0.05,Boleto,Concluido,4,749.7,37.48500000000001,712.215,2025-09-01,True
+PED-100274,2025-09-23,CLI-1115,25,F,Go,Goiania,Moda,Mochila Urbana,1,189.9,0.0,Cartao,Concluido,4,189.9,0.0,189.9,2025-09-01,True
+PED-100526,2025-09-23,CLI-1002,44,M,Pe,Recife,Esportes,Colchonete,1,99.9,0.05,Cartao,Concluido,4,99.9,4.995000000000001,94.905,2025-09-01,True
+PED-100235,2025-09-24,CLI-1193,48,Outro,Rs,Porto Alegre,Beleza,Secador,2,199.9,0.1,Cartao,Concluido,5,399.8,39.980000000000004,359.82,2025-09-01,True
+PED-100380,2025-09-24,CLI-1004,70,Outro,Sc,Florianopolis,Moda,Tenis Casual,2,279.9,0.0,Cartao,Em Processamento,4,559.8,0.0,559.8,2025-09-01,False
+PED-100339,2025-09-24,CLI-1152,66,M,Ce,Fortaleza,Esportes,Garrafa Termica,2,129.9,0.05,Pix,Concluido,4,259.8,12.990000000000002,246.81,2025-09-01,True
+PED-100287,2025-09-26,CLI-1123,34,F,Sp,Sao Paulo,Casa,Aspirador Vertical,1,599.9,0.0,Cartao,Concluido,4,599.9,0.0,599.9,2025-09-01,True
+PED-100559,2025-09-27,CLI-1101,52,M,Sc,Florianopolis,Casa,Cafeteira,1,229.9,0.1,Cartao,Cancelado,4,229.9,22.990000000000002,206.91,2025-09-01,False
+PED-100497,2025-09-27,CLI-1057,41,F,Ba,Salvador,Moda,Mochila Urbana,1,189.9,0.15,Cartao,Em Processamento,2,189.9,28.485,161.41500000000002,2025-09-01,False
+PED-100269,2025-09-27,CLI-1041,29,F,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,1,149.9,0.0,Carteira Digital,Concluido,3,149.9,0.0,149.9,2025-09-01,True
+PED-100616,2025-09-28,CLI-1127,47,F,Sp,Sao Paulo,Beleza,Secador,1,199.9,0.1,Pix,Em Processamento,4,199.9,19.990000000000002,179.91,2025-09-01,False
+PED-100487,2025-09-29,CLI-1146,50,Outro,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,2,149.9,0.1,Pix,Concluido,3,299.8,29.980000000000004,269.82,2025-09-01,True
+PED-100122,2025-10-01,CLI-1220,69,M,Ba,Salvador,Eletronicos,Fone Bluetooth,1,149.9,0.0,Cartao,Concluido,4,149.9,0.0,149.9,2025-10-01,True
+PED-100664,2025-10-01,CLI-1057,28,F,Rs,Porto Alegre,Casa,Jogo De Panelas,1,349.9,0.05,Pix,Concluido,4,349.9,17.495,332.405,2025-10-01,True
+PED-100642,2025-10-01,CLI-1208,69,M,Rs,Porto Alegre,Eletronicos,Fone Bluetooth,1,149.9,0.0,Carteira Digital,Concluido,4,149.9,0.0,149.9,2025-10-01,True
+PED-100448,2025-10-02,CLI-1132,43,F,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,1,149.9,0.05,Pix,Em Processamento,3,149.9,7.495000000000001,142.405,2025-10-01,False
+PED-100431,2025-10-02,CLI-1094,44,M,Sp,Sao Paulo,Beleza,Kit Skincare,2,159.9,0.15,Cartao,Concluido,5,319.8,47.97,271.83000000000004,2025-10-01,True
+PED-100000,2025-10-03,CLI-1164,35,F,Sp,Sao Paulo,Beleza,Secador,2,199.9,0.0,Carteira Digital,Concluido,5,399.8,0.0,399.8,2025-10-01,True
+PED-100330,2025-10-03,CLI-1103,50,M,Ba,Salvador,Beleza,Perfume,1,249.9,0.05,Cartao,Cancelado,3,249.9,12.495000000000001,237.405,2025-10-01,False
+PED-100190,2025-10-03,CLI-1238,34,M,Ce,Fortaleza,Esportes,Colchonete,1,99.9,0.0,Pix,Concluido,3,99.9,0.0,99.9,2025-10-01,True
+PED-100047,2025-10-04,CLI-1201,30,M,Rs,Porto Alegre,Eletronicos,Fone Bluetooth,2,149.9,0.1,Cartao,Concluido,4,299.8,29.980000000000004,269.82,2025-10-01,True
+PED-100711,2025-10-04,CLI-1143,50,F,Rj,Rio De Janeiro,Moda,Tenis Casual,1,279.9,0.05,Cartao,Concluido,3,279.9,13.995,265.905,2025-10-01,True
+PED-100618,2025-10-06,CLI-1167,19,M,Pe,Recife,Eletronicos,Smartwatch,1,399.9,0.05,Cartao,Concluido,5,399.9,19.995,379.905,2025-10-01,True
+PED-100484,2025-10-07,CLI-1124,62,F,Sc,Florianopolis,Eletronicos,Smartwatch,1,399.9,0.0,Pix,Cancelado,5,399.9,0.0,399.9,2025-10-01,False
+PED-100267,2025-10-08,CLI-1139,44,F,Rj,Rio De Janeiro,Eletronicos,Teclado Mecanico,4,289.9,0.1,Cartao,Cancelado,3,1159.6,115.96,1043.6399999999999,2025-10-01,False
+PED-100703,2025-10-11,CLI-1231,60,M,Sp,Sao Paulo,Esportes,Colchonete,2,99.9,0.1,Pix,Concluido,4,199.8,19.980000000000004,179.82,2025-10-01,True
+PED-100031,2025-10-13,CLI-1167,28,M,Mg,Belo Horizonte,Esportes,Garrafa Termica,4,129.9,0.0,Cartao,Concluido,4,519.6,0.0,519.6,2025-10-01,True
+PED-100014,2025-10-14,CLI-1060,53,F,Pr,Curitiba,Casa,Aspirador Vertical,2,599.9,0.2,Boleto,Concluido,4,1199.8,239.96,959.8399999999999,2025-10-01,True
+PED-100519,2025-10-15,CLI-1020,54,F,Rj,Rio De Janeiro,Beleza,Kit Skincare,3,159.9,0.1,Pix,Concluido,4,479.70000000000005,47.970000000000006,431.73,2025-10-01,True
+PED-100243,2025-10-16,CLI-1124,32,M,Sc,Florianopolis,Moda,Jaqueta,3,319.9,0.05,Boleto,Cancelado,4,959.6999999999999,47.985,911.7149999999999,2025-10-01,False
+PED-100062,2025-10-17,CLI-1181,46,M,Ba,Salvador,Moda,Tenis Casual,4,279.9,0.1,Cartao,Concluido,2,1119.6,111.96,1007.6399999999999,2025-10-01,True
+PED-100259,2025-10-19,CLI-1182,27,F,Rj,Rio De Janeiro,Moda,Jaqueta,1,319.9,0.05,Cartao,Em Processamento,3,319.9,15.995,303.905,2025-10-01,False
+PED-100211,2025-10-19,CLI-1037,59,F,Rs,Porto Alegre,Moda,Tenis Casual,1,279.9,0.15,Pix,Concluido,4,279.9,41.98499999999999,237.915,2025-10-01,True
+PED-100552,2025-10-19,CLI-1050,43,M,Rs,Porto Alegre,Eletronicos,Fone Bluetooth,1,149.9,0.2,Pix,Concluido,3,149.9,29.980000000000004,119.92,2025-10-01,True
+PED-100168,2025-10-21,CLI-1022,57,F,Go,Goiania,Casa,Cafeteira,1,229.9,0.15,Carteira Digital,Concluido,4,229.9,34.485,195.41500000000002,2025-10-01,True
+PED-100115,2025-10-23,CLI-1101,41,M,Sp,Sao Paulo,Beleza,Kit Skincare,1,159.9,0.05,Pix,Em Processamento,5,159.9,7.995000000000001,151.905,2025-10-01,False
+PED-100195,2025-10-23,CLI-1012,68,M,Rj,Rio De Janeiro,Eletronicos,Smartwatch,2,399.9,0.15,Pix,Em Processamento,4,799.8,119.96999999999998,679.8299999999999,2025-10-01,False
+PED-100246,2025-10-24,CLI-1036,23,F,Rj,Rio De Janeiro,Moda,Mochila Urbana,1,189.9,0.05,Pix,Concluido,4,189.9,9.495000000000001,180.405,2025-10-01,True
+PED-100192,2025-10-28,CLI-1069,27,M,Mg,Belo Horizonte,Eletronicos,Fone Bluetooth,1,149.9,0.1,Cartao,Concluido,5,149.9,14.990000000000002,134.91,2025-10-01,True
+PED-100480,2025-10-29,CLI-1086,54,M,Ce,Fortaleza,Casa,Aspirador Vertical,1,599.9,0.0,Cartao,Concluido,3,599.9,0.0,599.9,2025-10-01,True
+PED-100501,2025-10-31,CLI-1102,55,F,Rj,Rio De Janeiro,Esportes,Corda De Pular,2,59.9,0.15,Cartao,Concluido,4,119.8,17.97,101.83,2025-10-01,True
+PED-100076,2025-10-31,CLI-1064,56,Outro,Sp,Sao Paulo,Casa,Aspirador Vertical,1,599.9,0.0,Boleto,Concluido,4,599.9,0.0,599.9,2025-10-01,True
+PED-100628,2025-10-31,CLI-1133,22,M,Go,Goiania,Moda,Tenis Casual,2,279.9,0.1,Cartao,Cancelado,4,559.8,55.98,503.81999999999994,2025-10-01,False
+PED-100459,2025-11-01,CLI-1150,44,M,Mg,Belo Horizonte,Moda,Mochila Urbana,1,189.9,0.05,Cartao,Concluido,3,189.9,9.495000000000001,180.405,2025-11-01,True
+PED-100118,2025-11-02,CLI-1129,35,F,Rj,Rio De Janeiro,Casa,Jogo De Panelas,2,349.9,0.2,Carteira Digital,Concluido,2,699.8,139.96,559.8399999999999,2025-11-01,True
+PED-100598,2025-11-02,CLI-1131,67,Outro,Go,Goiania,Esportes,Garrafa Termica,1,129.9,0.15,Cartao,Concluido,4,129.9,19.485,110.415,2025-11-01,True
+PED-100443,2025-11-04,CLI-1151,24,F,Sc,Florianopolis,Eletronicos,Teclado Mecanico,1,289.9,0.1,Cartao,Em Processamento,4,289.9,28.99,260.90999999999997,2025-11-01,False
+PED-100551,2025-11-04,CLI-1099,27,F,Ba,Salvador,Eletronicos,Smartwatch,3,399.9,0.05,Pix,Concluido,4,1199.6999999999998,59.98499999999999,1139.715,2025-11-01,True
+PED-100385,2025-11-04,CLI-1006,41,F,Rs,Porto Alegre,Esportes,Garrafa Termica,1,129.9,0.0,Pix,Concluido,2,129.9,0.0,129.9,2025-11-01,True
+PED-100247,2025-11-05,CLI-1104,34,F,Pr,Curitiba,Casa,Aspirador Vertical,1,599.9,0.0,Carteira Digital,Em Processamento,5,599.9,0.0,599.9,2025-11-01,False
+PED-100508,2025-11-05,CLI-1107,47,F,Rj,Rio De Janeiro,Casa,Cafeteira,2,229.9,0.05,Cartao,Concluido,4,459.8,22.990000000000002,436.81,2025-11-01,True
+PED-100351,2025-11-08,CLI-1118,19,F,Pr,Curitiba,Eletronicos,Teclado Mecanico,1,289.9,0.0,Cartao,Concluido,4,289.9,0.0,289.9,2025-11-01,True
+PED-100029,2025-11-11,CLI-1145,22,F,Sp,Sao Paulo,Moda,Tenis Casual,1,279.9,0.1,Pix,Em Processamento,4,279.9,27.99,251.90999999999997,2025-11-01,False
+PED-100517,2025-11-16,CLI-1170,69,F,Sp,Sao Paulo,Beleza,Perfume,2,249.9,0.0,Cartao,Concluido,5,499.8,0.0,499.8,2025-11-01,True
+PED-100253,2025-11-16,CLI-1231,46,F,Pe,Recife,Eletronicos,Smartwatch,2,399.9,0.0,Cartao,Cancelado,3,799.8,0.0,799.8,2025-11-01,False
+PED-100548,2025-11-17,CLI-1140,55,M,Sp,Sao Paulo,Beleza,Kit Skincare,1,159.9,0.15,Pix,Em Processamento,4,159.9,23.985,135.91500000000002,2025-11-01,False
+PED-100139,2025-11-17,CLI-1139,65,M,Sp,Sao Paulo,Eletronicos,Smartwatch,1,399.9,0.0,Cartao,Concluido,5,399.9,0.0,399.9,2025-11-01,True
+PED-100667,2025-11-17,CLI-1009,49,M,Pr,Curitiba,Esportes,Corda De Pular,2,59.9,0.2,Cartao,Concluido,3,119.8,23.96,95.84,2025-11-01,True
+PED-100639,2025-11-17,CLI-1104,55,M,Ba,Salvador,Esportes,Corda De Pular,2,59.9,0.1,Cartao,Concluido,5,119.8,11.98,107.82,2025-11-01,True
+PED-100053,2025-11-18,CLI-1213,29,M,Sc,Florianopolis,Moda,Tenis Casual,2,279.9,0.15,Cartao,Em Processamento,4,559.8,83.96999999999998,475.83,2025-11-01,False
+PED-100135,2025-11-19,CLI-1031,53,F,Pr,Curitiba,Eletronicos,Fone Bluetooth,1,149.9,0.1,Cartao,Concluido,2,149.9,14.990000000000002,134.91,2025-11-01,True
+PED-100666,2025-11-21,CLI-1169,58,M,Sc,Florianopolis,Beleza,Secador,2,199.9,0.05,Carteira Digital,Concluido,4,399.8,19.990000000000002,379.81,2025-11-01,True
+PED-100469,2025-11-22,CLI-1070,32,F,Rj,Rio De Janeiro,Casa,Jogo De Panelas,3,349.9,0.05,Boleto,Em Processamento,5,1049.6999999999998,52.48499999999999,997.2149999999998,2025-11-01,False
+PED-100018,2025-11-27,CLI-1061,21,M,Ba,Salvador,Beleza,Kit Skincare,1,159.9,0.1,Boleto,Concluido,4,159.9,15.990000000000002,143.91,2025-11-01,True
+PED-100137,2025-11-29,CLI-1092,43,F,Pr,Curitiba,Casa,Jogo De Panelas,2,349.9,0.0,Cartao,Concluido,4,699.8,0.0,699.8,2025-11-01,True
+PED-100349,2025-12-01,CLI-1191,44,M,Mg,Belo Horizonte,Eletronicos,Teclado Mecanico,1,289.9,0.05,Pix,Em Processamento,4,289.9,14.495,275.405,2025-12-01,False
+PED-100065,2025-12-01,CLI-1144,22,F,Rj,Rio De Janeiro,Moda,Tenis Casual,3,279.9,0.05,Cartao,Cancelado,4,839.6999999999999,41.985,797.7149999999999,2025-12-01,False
+PED-100575,2025-12-02,CLI-1204,19,F,Mg,Belo Horizonte,Casa,Cafeteira,1,229.9,0.1,Cartao,Cancelado,3,229.9,22.990000000000002,206.91,2025-12-01,False
+PED-100165,2025-12-03,CLI-1103,25,M,Rj,Rio De Janeiro,Casa,Jogo De Panelas,1,349.9,0.2,Cartao,Concluido,3,349.9,69.98,279.91999999999996,2025-12-01,True
+PED-100359,2025-12-07,CLI-1231,60,F,Ce,Fortaleza,Moda,Mochila Urbana,1,189.9,0.05,Boleto,Em Processamento,2,189.9,9.495000000000001,180.405,2025-12-01,False
+PED-100232,2025-12-09,CLI-1092,41,M,Pr,Curitiba,Esportes,Corda De Pular,1,59.9,0.1,Cartao,Concluido,5,59.9,5.99,53.91,2025-12-01,True
+PED-100264,2025-12-10,CLI-1108,48,F,Ce,Fortaleza,Esportes,Garrafa Termica,1,129.9,0.1,Pix,Concluido,4,129.9,12.990000000000002,116.91,2025-12-01,True
+PED-100489,2025-12-10,CLI-1231,57,F,Mg,Belo Horizonte,Moda,Jaqueta,1,319.9,0.05,Pix,Concluido,5,319.9,15.995,303.905,2025-12-01,True
+PED-100208,2025-12-12,CLI-1130,29,M,Mg,Belo Horizonte,Eletronicos,Teclado Mecanico,1,289.9,0.05,Cartao,Em Processamento,4,289.9,14.495,275.405,2025-12-01,False
+PED-100524,2025-12-12,CLI-1213,44,F,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,1,289.9,0.15,Cartao,Concluido,4,289.9,43.48499999999999,246.415,2025-12-01,True
+PED-100331,2025-12-13,CLI-1190,26,M,Ce,Fortaleza,Eletronicos,Smartwatch,2,399.9,0.1,Cartao,Cancelado,4,799.8,79.98,719.8199999999999,2025-12-01,False
+PED-100706,2025-12-15,CLI-1181,59,M,Rj,Rio De Janeiro,Beleza,Kit Skincare,3,159.9,0.05,Cartao,Concluido,3,479.70000000000005,23.985000000000003,455.71500000000003,2025-12-01,True
+PED-100496,2025-12-15,CLI-1124,46,F,Sc,Florianopolis,Casa,Aspirador Vertical,2,599.9,0.0,Pix,Concluido,4,1199.8,0.0,1199.8,2025-12-01,True
+PED-100032,2025-12-16,CLI-1106,66,F,Pr,Curitiba,Casa,Aspirador Vertical,1,599.9,0.05,Pix,Concluido,2,599.9,29.995,569.905,2025-12-01,True
+PED-100707,2025-12-17,CLI-1172,61,F,Rs,Porto Alegre,Beleza,Secador,3,199.9,0.05,Cartao,Concluido,4,599.7,29.985000000000003,569.715,2025-12-01,True
+PED-100583,2025-12-17,CLI-1160,25,F,Sp,Sao Paulo,Casa,Aspirador Vertical,1,599.9,0.0,Pix,Em Processamento,4,599.9,0.0,599.9,2025-12-01,False
+PED-100343,2025-12-17,CLI-1231,51,F,Rj,Rio De Janeiro,Moda,Jaqueta,2,319.9,0.1,Boleto,Concluido,4,639.8,63.98,575.8199999999999,2025-12-01,True
+PED-100398,2025-12-17,CLI-1004,30,F,Mg,Belo Horizonte,Casa,Cafeteira,1,229.9,0.05,Pix,Concluido,2,229.9,11.495000000000001,218.405,2025-12-01,True
+PED-100472,2025-12-18,CLI-1171,67,M,Rj,Rio De Janeiro,Eletronicos,Fone Bluetooth,2,149.9,0.0,Boleto,Em Processamento,5,299.8,0.0,299.8,2025-12-01,False
+PED-100437,2025-12-19,CLI-1165,52,M,Pe,Recife,Casa,Jogo De Panelas,1,349.9,0.0,Cartao,Cancelado,3,349.9,0.0,349.9,2025-12-01,False
+PED-100510,2025-12-22,CLI-1064,22,F,Sp,Sao Paulo,Eletronicos,Teclado Mecanico,4,289.9,0.0,Pix,Cancelado,5,1159.6,0.0,1159.6,2025-12-01,False
+PED-100426,2025-12-24,CLI-1054,31,M,Sc,Florianopolis,Eletronicos,Fone Bluetooth,2,149.9,0.0,Cartao,Concluido,4,299.8,0.0,299.8,2025-12-01,True
+PED-100390,2025-12-24,CLI-1029,20,M,Pe,Recife,Moda,Mochila Urbana,1,189.9,0.2,Cartao,Em Processamento,4,189.9,37.980000000000004,151.92000000000002,2025-12-01,False
+PED-100649,2025-12-26,CLI-1050,65,F,Mg,Belo Horizonte,Eletronicos,Fone Bluetooth,2,149.9,0.05,Cartao,Concluido,3,299.8,14.990000000000002,284.81,2025-12-01,True
+PED-100242,2025-12-26,CLI-1136,35,F,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,2,149.9,0.05,Pix,Em Processamento,3,299.8,14.990000000000002,284.81,2025-12-01,False
+PED-100033,2025-12-27,CLI-1088,20,F,Pe,Recife,Casa,Cafeteira,1,229.9,0.1,Cartao,Cancelado,4,229.9,22.990000000000002,206.91,2025-12-01,False
+PED-100621,2025-12-27,CLI-1123,70,F,Ce,Fortaleza,Casa,Aspirador Vertical,1,599.9,0.1,Pix,Concluido,4,599.9,59.99,539.91,2025-12-01,True
+PED-100363,2025-12-27,CLI-1201,46,F,Sp,Sao Paulo,Eletronicos,Fone Bluetooth,1,149.9,0.0,Pix,Concluido,3,149.9,0.0,149.9,2025-12-01,True
+PED-100596,2025-12-28,CLI-1210,44,F,Sc,Florianopolis,Moda,Mochila Urbana,1,189.9,0.1,Boleto,Concluido,2,189.9,18.990000000000002,170.91,2025-12-01,True
+PED-100297,2025-12-29,CLI-1075,66,F,Go,Goiania,Beleza,Kit Skincare,1,159.9,0.05,Boleto,Concluido,3,159.9,7.995000000000001,151.905,2025-12-01,True
+PED-100674,2025-12-29,CLI-1070,27,M,Rj,Rio De Janeiro,Moda,Jaqueta,1,319.9,0.0,Boleto,Em Processamento,4,319.9,0.0,319.9,2025-12-01,False
+PED-100290,2025-12-29,CLI-1027,53,F,Sp,Sao Paulo,Beleza,Secador,1,199.9,0.2,Cartao,Concluido,5,199.9,39.980000000000004,159.92000000000002,2025-12-01,True
+PED-100285,2025-12-30,CLI-1206,47,F,Pr,Curitiba,Casa,Jogo De Panelas,1,349.9,0.1,Pix,Concluido,5,349.9,34.99,314.90999999999997,2025-12-01,True
+PED-100427,2025-12-30,CLI-1015,33,M,Mg,Belo Horizonte,Beleza,Secador,1,199.9,0.0,Boleto,Concluido,4,199.9,0.0,199.9,2025-12-01,True
+PED-100007,2025-12-31,CLI-1053,32,F,Sp,Florianopolis,Beleza,Secador,1,199.9,0.15,Cartao,Cancelado,2,199.9,29.985,169.91500000000002,2025-12-01,False
+PED-100241,2025-12-31,CLI-1154,37,M,Mg,Belo Horizonte,Beleza,Kit Skincare,2,159.9,0.05,Boleto,Cancelado,3,319.8,15.990000000000002,303.81,2025-12-01,False
